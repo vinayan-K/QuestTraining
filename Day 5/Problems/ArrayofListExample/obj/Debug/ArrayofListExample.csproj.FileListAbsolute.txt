@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\QuestTraining\ArrayofListExample\obj\Debug\ArrayofListExample.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\QuestTraining\ArrayofListExample\obj\Debug\ArrayofListExample.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\QuestTraining\ArrayofListExample\bin\Debug\ArrayofListExample.exe.config
+C:\Users\acer\source\repos\QuestTraining\ArrayofListExample\bin\Debug\ArrayofListExample.exe
+C:\Users\acer\source\repos\QuestTraining\ArrayofListExample\bin\Debug\ArrayofListExample.pdb
+C:\Users\acer\source\repos\QuestTraining\ArrayofListExample\obj\Debug\ArrayofListExample.exe
+C:\Users\acer\source\repos\QuestTraining\ArrayofListExample\obj\Debug\ArrayofListExample.pdb

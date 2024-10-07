@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\QuestTraining\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\QuestTraining\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\QuestTraining\TwoDimensionalArray\bin\Debug\TwoDimensionalArray.exe.config
+C:\Users\acer\source\repos\QuestTraining\TwoDimensionalArray\bin\Debug\TwoDimensionalArray.exe
+C:\Users\acer\source\repos\QuestTraining\TwoDimensionalArray\bin\Debug\TwoDimensionalArray.pdb
+C:\Users\acer\source\repos\QuestTraining\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.exe
+C:\Users\acer\source\repos\QuestTraining\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.pdb

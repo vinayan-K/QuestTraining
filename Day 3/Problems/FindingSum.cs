@@ -1,13 +1,22 @@
-// Finding sum of even numbers in an array //
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
+namespace TwoDimensionalArray
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {  
+            // Finding sum of even numbers in an array //
             int[] array = new int[5];
             int sum = 0;
             for (int i = 0; i < array.Length; i++)
             {
-
                 Console.Write($"Enter the numbers {i} : ");
                 array[i] = int.Parse(Console.ReadLine());
-
             }
             for (int i = 0; i < array.Length; i++)
             {
@@ -18,29 +27,32 @@
                 }
             }
             Console.WriteLine(sum);
-
+        
 
 
  
- // Array resizing and finding sum //
- 
- int[] array = new int[0]; 
- int sum = 0;
- int index = 0;
- while (true)
- {
-     Console.Write("Enter a number or press 'q' to exit: ");
-     string input = Console.ReadLine();
+            // Array resizing and finding sum //
+            
+            int[] array = new int[0]; 
+            int sum = 0;
+            int index = 0;
+            while (true)
+            {
+                Console.Write("Enter a number or press 'q' to exit: ");
+                string input = Console.ReadLine();
 
-     if (input.ToLower() == "q")
-     {
-         break; 
-     }
-     int number = int.Parse(input); 
-     Array.Resize(ref array, array.Length + 1);
-     array[index] = number; 
-     sum += number; 
-     index++;
- }
-          
- Console.WriteLine($"The sum of the entered numbers is: {sum}");
+                if (input.ToLower() == "q")
+                {
+                    break; 
+                }
+                int number = int.Parse(input); 
+                Array.Resize(ref array, array.Length + 1);
+                array[index] = number; 
+                sum += number; 
+                index++;
+            }
+                    
+            Console.WriteLine($"The sum of the entered numbers is: {sum}");
+        }
+    }
+}

@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\QuestTraining\ListDatatype\bin\Debug\ListDatatype.exe.config
+C:\Users\acer\source\repos\QuestTraining\ListDatatype\bin\Debug\ListDatatype.exe
+C:\Users\acer\source\repos\QuestTraining\ListDatatype\bin\Debug\ListDatatype.pdb
+C:\Users\acer\source\repos\QuestTraining\ListDatatype\obj\Debug\ListDatatype.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\QuestTraining\ListDatatype\obj\Debug\ListDatatype.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\QuestTraining\ListDatatype\obj\Debug\ListDatatype.exe
+C:\Users\acer\source\repos\QuestTraining\ListDatatype\obj\Debug\ListDatatype.pdb

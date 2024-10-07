@@ -1,5 +1,16 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-    // Printing array in reverse order //   
+namespace TwoDimensionalArray
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {  
+             // Printing array in reverse order //   
             int[] array = new int[6];
             int n = array.Length - 1;
 
@@ -13,3 +24,6 @@
                 Console.Write(array[i + n] + " ");
                 n = n - 2;
             }
+        }
+    }
+}
