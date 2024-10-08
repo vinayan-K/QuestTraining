@@ -1,7 +1,0 @@
-C:\Users\acer\source\repos\QuestTraining\NameSpace\bin\Debug\NameSpace.exe.config
-C:\Users\acer\source\repos\QuestTraining\NameSpace\bin\Debug\NameSpace.exe
-C:\Users\acer\source\repos\QuestTraining\NameSpace\bin\Debug\NameSpace.pdb
-C:\Users\acer\source\repos\QuestTraining\NameSpace\obj\Debug\NameSpace.csproj.AssemblyReference.cache
-C:\Users\acer\source\repos\QuestTraining\NameSpace\obj\Debug\NameSpace.csproj.CoreCompileInputs.cache
-C:\Users\acer\source\repos\QuestTraining\NameSpace\obj\Debug\NameSpace.exe
-C:\Users\acer\source\repos\QuestTraining\NameSpace\obj\Debug\NameSpace.pdb

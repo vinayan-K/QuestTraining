@@ -26,22 +26,21 @@ namespace ListDatatype
             //    Console.Write(lst[i]+ " ");
             //}
 
-            
+
             List<int> lst = new List<int>(5);
-            for (int i = 0; i < 5 ; i++)
+            for (int i = 0; i < 5; i++)
             {
-                Console.WriteLine($"Enter the numbers {i+1}: ");
-                lst.Add( int.Parse(Console.ReadLine()));
+                Console.WriteLine($"Enter the numbers {i + 1}: ");
+                lst.Add(int.Parse(Console.ReadLine()));
             }
             for (int i = 0; i < lst.Count; i++)
             {
                 if (lst[i] % 2 == 0)
-                { 
+                {
                     lst.RemoveAt(i);
-                }               
+                }
             }
-            Console.WriteLine(string.Join(",",lst));
-            
+            Console.WriteLine(string.Join(",", lst));
         }
     }
 }

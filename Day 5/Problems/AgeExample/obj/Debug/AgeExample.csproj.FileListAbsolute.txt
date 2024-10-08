@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 5\Problems\AgeExample\bin\Debug\AgeExample.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 5\Problems\AgeExample\bin\Debug\AgeExample.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 5\Problems\AgeExample\bin\Debug\AgeExample.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 5\Problems\AgeExample\obj\Debug\AgeExample.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 5\Problems\AgeExample\obj\Debug\AgeExample.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 5\Problems\AgeExample\obj\Debug\AgeExample.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 5\Problems\AgeExample\obj\Debug\AgeExample.pdb

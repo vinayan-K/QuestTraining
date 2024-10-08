@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 4\Problems\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 4\Problems\Calculator\bin\Debug\Calculator.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 4\Problems\Calculator\bin\Debug\Calculator.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 4\Problems\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 4\Problems\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 4\Problems\Calculator\obj\Debug\Calculator.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 4\Problems\Calculator\obj\Debug\Calculator.pdb

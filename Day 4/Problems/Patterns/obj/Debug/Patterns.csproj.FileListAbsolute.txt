@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 4\Problems\Patterns\bin\Debug\Patterns.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 4\Problems\Patterns\bin\Debug\Patterns.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 4\Problems\Patterns\bin\Debug\Patterns.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 4\Problems\Patterns\obj\Debug\Patterns.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 4\Problems\Patterns\obj\Debug\Patterns.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 4\Problems\Patterns\obj\Debug\Patterns.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 4\Problems\Patterns\obj\Debug\Patterns.pdb

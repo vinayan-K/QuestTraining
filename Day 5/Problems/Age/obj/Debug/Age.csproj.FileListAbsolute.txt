@@ -1,7 +1,0 @@
-C:\Users\acer\source\repos\QuestTraining\Age\bin\Debug\Age.exe.config
-C:\Users\acer\source\repos\QuestTraining\Age\bin\Debug\Age.exe
-C:\Users\acer\source\repos\QuestTraining\Age\bin\Debug\Age.pdb
-C:\Users\acer\source\repos\QuestTraining\Age\obj\Debug\Age.csproj.AssemblyReference.cache
-C:\Users\acer\source\repos\QuestTraining\Age\obj\Debug\Age.csproj.CoreCompileInputs.cache
-C:\Users\acer\source\repos\QuestTraining\Age\obj\Debug\Age.exe
-C:\Users\acer\source\repos\QuestTraining\Age\obj\Debug\Age.pdb

@@ -10,29 +10,8 @@ namespace DictionaryExample
     {
         static void Main(string[] args)
         {
-            ////Dictionary<string,string> d = new Dictionary<string,string>();
-            //var d = new Dictionary<string, string>();
-            //d.Add("First Name", "John");
-            //d.Add("Last Name", "Doe");
-            //Console.WriteLine(d["First Name"]);
-            //d["First Name"] = "Jane";
-            //Console.WriteLine(d["First Name"]);
-            //d.Remove("Last Name");
-            //if (d.ContainsKey("Age"))
-            //{
-            //    Console.WriteLine(d["Age"]);
-            //}
-            //else
-            //{
-            //    Console.WriteLine("NOT FOUND");
-            //}
-            //foreach (var item in d)
-            //{
-            //    Console.WriteLine($"{item:Key}:{item:value}");
-            //}
-
             var d = new Dictionary<string, List<int>>();
-            while (true) 
+            while (true)
             {
                 Console.WriteLine($"Enter the ID or q to exit ");
                 var option = Console.ReadLine();
@@ -40,8 +19,13 @@ namespace DictionaryExample
                 {
                     break;
                 }
+                if (d.ContainsKey(option))
+                {
+                    Console.WriteLine("This ID already exists. Please enter a unique ID.");
+                    continue;
+                }
                 var marks = new List<int>();
-                for (int i = 0; i <=3;i++)
+                for (int i = 0; i <= 3; i++)
                 {
                     Console.WriteLine($"Enter the mark {i + 1}");
                     var mark = int.Parse(Console.ReadLine());
@@ -51,9 +35,18 @@ namespace DictionaryExample
 
                 foreach (var item in d)
                 {
-                    Console.WriteLine($"{item.Key}:{string.Join(",",item.Value)}"); 
+                    Console.WriteLine($"{item.Key}:{string.Join(",", item.Value)}");
                 }
             }
+            Console.WriteLine("Enter the id for search : ");
+            var searchid = Console.ReadLine();
+            if (d.ContainsKey(searchid))
+            {
+                Console.WriteLine("marks : ");
+                var marks = d[searchid];
+                Console.WriteLine($"Found entry for ID {searchid}: {string.Join(", ", marks)}");
+            }
+
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 5\Problems\ArrayofListExample1\bin\Debug\ArrayofListExample1.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 5\Problems\ArrayofListExample1\bin\Debug\ArrayofListExample1.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 5\Problems\ArrayofListExample1\bin\Debug\ArrayofListExample1.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 5\Problems\ArrayofListExample1\obj\Debug\ArrayofListExample1.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 5\Problems\ArrayofListExample1\obj\Debug\ArrayofListExample1.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 5\Problems\ArrayofListExample1\obj\Debug\ArrayofListExample1.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 5\Problems\ArrayofListExample1\obj\Debug\ArrayofListExample1.pdb

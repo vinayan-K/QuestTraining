@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 5\Problems\NameSpaceExample\bin\Debug\NameSpaceExample.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 5\Problems\NameSpaceExample\bin\Debug\NameSpaceExample.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 5\Problems\NameSpaceExample\bin\Debug\NameSpaceExample.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 5\Problems\NameSpaceExample\obj\Debug\NameSpaceExample.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 5\Problems\NameSpaceExample\obj\Debug\NameSpaceExample.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 5\Problems\NameSpaceExample\obj\Debug\NameSpaceExample.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 5\Problems\NameSpaceExample\obj\Debug\NameSpaceExample.pdb

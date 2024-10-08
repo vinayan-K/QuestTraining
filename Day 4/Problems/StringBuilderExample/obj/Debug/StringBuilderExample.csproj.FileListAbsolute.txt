@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 4\Problems\StringBuilderExample\bin\Debug\StringBuilderExample.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 4\Problems\StringBuilderExample\bin\Debug\StringBuilderExample.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 4\Problems\StringBuilderExample\bin\Debug\StringBuilderExample.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 4\Problems\StringBuilderExample\obj\Debug\StringBuilderExample.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 4\Problems\StringBuilderExample\obj\Debug\StringBuilderExample.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 4\Problems\StringBuilderExample\obj\Debug\StringBuilderExample.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 4\Problems\StringBuilderExample\obj\Debug\StringBuilderExample.pdb

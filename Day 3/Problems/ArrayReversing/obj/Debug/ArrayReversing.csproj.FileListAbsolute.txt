@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 3\Problems\ArrayReversing\bin\Debug\ArrayReversing.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 3\Problems\ArrayReversing\bin\Debug\ArrayReversing.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 3\Problems\ArrayReversing\bin\Debug\ArrayReversing.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 3\Problems\ArrayReversing\obj\Debug\ArrayReversing.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 3\Problems\ArrayReversing\obj\Debug\ArrayReversing.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 3\Problems\ArrayReversing\obj\Debug\ArrayReversing.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 3\Problems\ArrayReversing\obj\Debug\ArrayReversing.pdb

@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 3\Problems\FindingSum\bin\Debug\FindingSum.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 3\Problems\FindingSum\bin\Debug\FindingSum.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 3\Problems\FindingSum\bin\Debug\FindingSum.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 3\Problems\FindingSum\obj\Debug\FindingSum.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 3\Problems\FindingSum\obj\Debug\FindingSum.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 3\Problems\FindingSum\obj\Debug\FindingSum.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 3\Problems\FindingSum\obj\Debug\FindingSum.pdb

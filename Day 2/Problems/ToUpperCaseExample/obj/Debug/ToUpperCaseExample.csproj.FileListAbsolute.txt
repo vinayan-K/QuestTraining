@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 2\Problems\ToUpperCaseExample\bin\Debug\ToUpperCaseExample.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 2\Problems\ToUpperCaseExample\bin\Debug\ToUpperCaseExample.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 2\Problems\ToUpperCaseExample\bin\Debug\ToUpperCaseExample.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 2\Problems\ToUpperCaseExample\obj\Debug\ToUpperCaseExample.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 2\Problems\ToUpperCaseExample\obj\Debug\ToUpperCaseExample.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 2\Problems\ToUpperCaseExample\obj\Debug\ToUpperCaseExample.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 2\Problems\ToUpperCaseExample\obj\Debug\ToUpperCaseExample.pdb

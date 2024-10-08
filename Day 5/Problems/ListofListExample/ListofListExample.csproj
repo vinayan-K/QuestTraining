@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2C8F416E-A0A9-4CD6-9134-437599E81970}</ProjectGuid>
+    <ProjectGuid>{ECF8B073-AEB3-4D5C-B2BA-9EAAE7CD5FD2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TwoDimensionalArray</RootNamespace>
-    <AssemblyName>TwoDimensionalArray</AssemblyName>
+    <RootNamespace>ListOfListExample</RootNamespace>
+    <AssemblyName>ListOfListExample</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

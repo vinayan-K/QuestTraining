@@ -1,7 +1,0 @@
-C:\Users\acer\source\repos\QuestTraining\DictionaryExample1\bin\Debug\DictionaryExample1.exe.config
-C:\Users\acer\source\repos\QuestTraining\DictionaryExample1\bin\Debug\DictionaryExample1.exe
-C:\Users\acer\source\repos\QuestTraining\DictionaryExample1\bin\Debug\DictionaryExample1.pdb
-C:\Users\acer\source\repos\QuestTraining\DictionaryExample1\obj\Debug\DictionaryExample1.csproj.AssemblyReference.cache
-C:\Users\acer\source\repos\QuestTraining\DictionaryExample1\obj\Debug\DictionaryExample1.csproj.CoreCompileInputs.cache
-C:\Users\acer\source\repos\QuestTraining\DictionaryExample1\obj\Debug\DictionaryExample1.exe
-C:\Users\acer\source\repos\QuestTraining\DictionaryExample1\obj\Debug\DictionaryExample1.pdb
