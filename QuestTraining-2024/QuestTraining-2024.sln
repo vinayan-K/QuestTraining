@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListDatatype", "..\Day 5\Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameSpaceExample", "..\Day 5\Problems\NameSpaceExample\NameSpaceExample.csproj", "{C6104513-3875-41D3-97CB-80B2D5657E4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryExample1", "..\Day 5\Problems\DictionaryExample1\DictionaryExample1.csproj", "{40D57537-CCBB-4F62-9B1F-CF12DE7FD59A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{C6104513-3875-41D3-97CB-80B2D5657E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6104513-3875-41D3-97CB-80B2D5657E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6104513-3875-41D3-97CB-80B2D5657E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40D57537-CCBB-4F62-9B1F-CF12DE7FD59A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D57537-CCBB-4F62-9B1F-CF12DE7FD59A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D57537-CCBB-4F62-9B1F-CF12DE7FD59A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D57537-CCBB-4F62-9B1F-CF12DE7FD59A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -152,6 +158,7 @@ Global
 		{ECF8B073-AEB3-4D5C-B2BA-9EAAE7CD5FD2} = {C899E5C7-3139-4303-9855-484611A4078B}
 		{D4CBD018-10EA-41C8-BE07-8EA70A341450} = {C899E5C7-3139-4303-9855-484611A4078B}
 		{C6104513-3875-41D3-97CB-80B2D5657E4E} = {C899E5C7-3139-4303-9855-484611A4078B}
+		{40D57537-CCBB-4F62-9B1F-CF12DE7FD59A} = {C899E5C7-3139-4303-9855-484611A4078B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {18C8B573-86C5-4259-9687-7BD20193AE15}
