@@ -28,17 +28,17 @@
 --ADD CONSTRAINT ck_dob CHECK (dob < GETDATE());
 
 
---INSERT INTO users (id, username, email, phone_number, dob) VALUES
---(1, 'alice_smith', 'alice.smith@example.com', '1234567', '2000-01-15'),
---(2, 'bob_johnson', 'bob.johnson@example.com', '2345678', '1995-05-20'),
---(3, 'charlie_brown', 'charlie.brown@example.com', '3456789', '1998-08-30'),
---(4, 'daisy_white', 'daisy.white@example.com', '4567890', '2001-02-25'),
---(5, 'ethan_green', 'ethan.green@example.com', '5678901', '1997-11-11'),
---(6, 'fiona_clark', 'fiona.clark@example.com', '6789012', '1999-04-18'),
---(7, 'george_miller', 'george.miller@example.com', '7890123', '1996-09-05'),
---(8, 'hannah_lee', 'hannah.lee@example.com', '8901234', '2002-07-22'),
---(9, 'ian_wilson', 'ian.wilson@example.com', '9012345', '1994-12-12'),
---(10, 'jasmine_taylor', 'jasmine.taylor@example.com', '0123456', '2003-03-15');
+INSERT INTO users (id, username, email, phone_number, dob) VALUES
+( 'alice_smith', 'alice.smith@example.com', '1234567', '2000-01-15'),
+( 'bob_johnson', 'bob.johnson@example.com', '2345678', '1995-05-20'),
+( 'charlie_brown', 'charlie.brown@example.com', '3456789', '1998-08-30'),
+( 'daisy_white', 'daisy.white@example.com', '4567890', '2001-02-25'),
+( 'ethan_green', 'ethan.green@example.com', '5678901', '1997-11-11'),
+( 'fiona_clark', 'fiona.clark@example.com', '6789012', '1999-04-18'),
+( 'george_miller', 'george.miller@example.com', '7890123', '1996-09-05'),
+( 'hannah_lee', 'hannah.lee@example.com', '8901234', '2002-07-22'),
+( 'ian_wilson', 'ian.wilson@example.com', '9012345', '1994-12-12'),
+( 'jasmine_taylor', 'jasmine.taylor@example.com', '0123456', '2003-03-15');
 
 
 
