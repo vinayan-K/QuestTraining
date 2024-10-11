@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 9\ProductManagement\obj\Debug\ProductManagement.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 9\ProductManagement\obj\Debug\ProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 9\ProductManagement\bin\Debug\ProductManagement.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 9\ProductManagement\bin\Debug\ProductManagement.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 9\ProductManagement\bin\Debug\ProductManagement.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 9\ProductManagement\obj\Debug\ProductManagement.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 9\ProductManagement\obj\Debug\ProductManagement.pdb

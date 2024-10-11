@@ -52,9 +52,31 @@ Example:
 
 **FUNCTIONS**
 
- SQL functions can be built-in or user-defined. Built-in functions perform calculations or data manipulations, while user-defined functions allow you to encapsulate complex operations. Common built-in functions include:
+ SQL functions can be built-in or user-defined. Built-in functions perform calculations or data manipulations, while user-defined functions allow you to encapsulate complex operations. 
 
- - Aggregate functions:  
+ - Configuration Functions:
+	Return information about the current configuration.
+ - Conversion Functions: Support data type casting and converting.
+ - Cursor Functions: Return information about cursors.
+ - Date and Time Data Types and Functions: Perform operations on a date
+   and time input values and return string, numeric, or date and time values.
+ - Graph Functions: Perform operations to convert to and from character representations of graph node and edge IDs.
+ - JSON Functions: Validate, query, or change JSON data.
+ - Logical Functions: Perform logical operations.
+ - Mathematical Functions: Perform calculations based on input values provided as parameters to the functions, and return numeric values.
+ - Metadata Functions: Return information about the database and database objects
+
+
+
+ - Security Functions: Return information about users and roles.
+ - String Functions: Perform operations on a string (**char**  or 
+   **varchar**) input value and return a string or numeric value.
+ - System Functions: Perform operations and return information about values, objects, and settings in an instance of SQL Server.
+
+ - System Statistical Functions: Return statistical information about the system.
+ - Text and Image Functions: Perform operations on text or image input values or columns, and return information about the value.
+
+ **Aggregate functions:**  
     COUNT()
 The `COUNT()` function returns the number of rows that match a specified condition. It can count all rows or count non-null values in a specific column.
     SUM()
@@ -66,24 +88,11 @@ The `MIN()` function returns the smallest value in a specified column.
  MAX()
 The `MAX()` function returns the largest value in a specified column.
 
- - String functions: 
-     CONCAT()
-    The `CONCAT()` function is used to concatenate two or more strings into one. It can     take multiple string arguments and combines them together.
-    SUBSTRING()
-The `SUBSTRING()` function extracts a part of a string based on a starting position and a specified length.
-LENGTH()
-The `LENGTH()` function returns the number of characters in a string, which can be useful for validation or data analysis
+ 
 
    
   
 
- - -Date functions: 
-  NOW()
-The `NOW()` function returns the current date and time based on the server’s timezone.
-DATEDIFF()
-The `DATEDIFF()` function calculates the difference between two dates, returning the result as the number of days between them.
-DATE_FORMAT()
-The `DATE_FORMAT()` function formats a date value according to a specified format. This is useful for displaying dates in a user-friendly format.
 
 **TRUNCATE**
 
