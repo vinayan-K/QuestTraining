@@ -3,13 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\QuestTraining-2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCBFCD21-416F-40C4-8CC8-20402B98E729}|..\\Day 9\\PatientDiagnosis\\PatientDiagnosis.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 9\\patientdiagnosis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D7801E4-740C-44DE-880B-24BD844ACC49}|..\\Assesments\\Assesment1\\Assesment1\\Assesment1.csproj|c:\\users\\acer\\documents\\github\\questtraining\\assesments\\assesment1\\assesment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{492CF702-B5ED-41A1-B6A4-24B60E4C4979}|..\\Day 9\\ProductManagement\\ProductManagement.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 9\\productmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A5E647E-C509-4A2C-8FF3-2F7A677B5D85}|..\\Day 9\\Library\\Library.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 9\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCBFCD21-416F-40C4-8CC8-20402B98E729}|..\\Day 9\\PatientDiagnosis\\PatientDiagnosis.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 9\\patientdiagnosis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBE5462-6D92-4806-872E-080AA5D635D3}|..\\Day 10\\Assesment\\Assesment.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 10\\assesment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,19 +22,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 9\\Library\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Day 9\\Library\\Program.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 9\\Library\\Program.cs",
-              "RelativeToolTip": "..\\Day 9\\Library\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Assesments\\Assesment1\\Assesment1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Assesments\\Assesment1\\Assesment1\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Assesments\\Assesment1\\Assesment1\\Program.cs*",
+              "RelativeToolTip": "..\\Assesments\\Assesment1\\Assesment1\\Program.cs*",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwFcAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T09:35:14.771Z",
+              "WhenOpened": "2024-10-14T09:41:33.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 10\\Assesment\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day 10\\Assesment\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 10\\Assesment\\Program.cs",
+              "RelativeToolTip": "..\\Day 10\\Assesment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:36:15.3Z",
               "EditorCaption": ""
             },
             {
@@ -42,20 +58,20 @@
               "RelativeDocumentMoniker": "..\\Day 9\\ProductManagement\\Program.cs",
               "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 9\\ProductManagement\\Program.cs",
               "RelativeToolTip": "..\\Day 9\\ProductManagement\\Program.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAqwGoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T05:55:28.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 9\\PatientDiagnosis\\Program.cs",
               "RelativeDocumentMoniker": "..\\Day 9\\PatientDiagnosis\\Program.cs",
               "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 9\\PatientDiagnosis\\Program.cs",
               "RelativeToolTip": "..\\Day 9\\PatientDiagnosis\\Program.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAYwCAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwCMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T04:10:12.336Z",
               "EditorCaption": ""
