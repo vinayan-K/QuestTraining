@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 11\Problems\CreditCard\bin\Debug\CreditCard.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 11\Problems\CreditCard\bin\Debug\CreditCard.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 11\Problems\CreditCard\bin\Debug\CreditCard.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 11\Problems\CreditCard\obj\Debug\CreditCard.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 11\Problems\CreditCard\obj\Debug\CreditCard.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 11\Problems\CreditCard\obj\Debug\CreditCard.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 11\Problems\CreditCard\obj\Debug\CreditCard.pdb

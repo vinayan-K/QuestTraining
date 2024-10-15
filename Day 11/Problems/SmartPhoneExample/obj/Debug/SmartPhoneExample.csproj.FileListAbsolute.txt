@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 11\Problems\SmartPhoneExample\bin\Debug\SmartPhoneExample.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 11\Problems\SmartPhoneExample\bin\Debug\SmartPhoneExample.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 11\Problems\SmartPhoneExample\bin\Debug\SmartPhoneExample.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 11\Problems\SmartPhoneExample\obj\Debug\SmartPhoneExample.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 11\Problems\SmartPhoneExample\obj\Debug\SmartPhoneExample.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 11\Problems\SmartPhoneExample\obj\Debug\SmartPhoneExample.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 11\Problems\SmartPhoneExample\obj\Debug\SmartPhoneExample.pdb
