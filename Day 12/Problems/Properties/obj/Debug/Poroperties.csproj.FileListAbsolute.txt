@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 12\Problems\Poroperties\bin\Debug\Poroperties.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 12\Problems\Poroperties\bin\Debug\Poroperties.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 12\Problems\Poroperties\bin\Debug\Poroperties.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 12\Problems\Poroperties\obj\Debug\Poroperties.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 12\Problems\Poroperties\obj\Debug\Poroperties.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 12\Problems\Poroperties\obj\Debug\Poroperties.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 12\Problems\Poroperties\obj\Debug\Poroperties.pdb

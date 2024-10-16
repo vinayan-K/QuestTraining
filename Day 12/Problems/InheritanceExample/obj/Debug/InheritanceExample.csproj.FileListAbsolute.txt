@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 12\Problems\InheritanceExample\bin\Debug\InheritanceExample.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 12\Problems\InheritanceExample\bin\Debug\InheritanceExample.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 12\Problems\InheritanceExample\bin\Debug\InheritanceExample.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 12\Problems\InheritanceExample\obj\Debug\InheritanceExample.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 12\Problems\InheritanceExample\obj\Debug\InheritanceExample.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 12\Problems\InheritanceExample\obj\Debug\InheritanceExample.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 12\Problems\InheritanceExample\obj\Debug\InheritanceExample.pdb

@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 12\Problems\Address\bin\Debug\Address.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 12\Problems\Address\bin\Debug\Address.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 12\Problems\Address\bin\Debug\Address.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 12\Problems\Address\obj\Debug\Address.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 12\Problems\Address\obj\Debug\Address.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 12\Problems\Address\obj\Debug\Address.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 12\Problems\Address\obj\Debug\Address.pdb

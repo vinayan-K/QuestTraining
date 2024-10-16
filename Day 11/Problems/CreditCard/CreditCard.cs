@@ -8,6 +8,7 @@ namespace CreditCard
 {
     internal class CreditCard
     {
+        
         public int CardNumber;
         public string Expiry;
         public int CVC;
