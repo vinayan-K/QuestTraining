@@ -1,0 +1,10 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\StudentManagementApp\bin\Debug\StudentManagementApp.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\StudentManagementApp\bin\Debug\StudentManagementApp.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\StudentManagementApp\bin\Debug\StudentManagementApp.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\StudentManagementApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\StudentManagementApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\StudentManagementApp\obj\Debug\StudentManagementApp.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\StudentManagementApp\obj\Debug\StudentManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\StudentManagementApp\obj\Debug\StudentM.507EE403.Up2Date
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\StudentManagementApp\obj\Debug\StudentManagementApp.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\StudentManagementApp\obj\Debug\StudentManagementApp.pdb
