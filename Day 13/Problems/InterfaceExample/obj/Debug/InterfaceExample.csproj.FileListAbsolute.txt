@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\InterfaceExample\bin\Debug\InterfaceExample.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\InterfaceExample\bin\Debug\InterfaceExample.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\InterfaceExample\bin\Debug\InterfaceExample.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\InterfaceExample\obj\Debug\InterfaceExample.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\InterfaceExample\obj\Debug\InterfaceExample.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\InterfaceExample\obj\Debug\InterfaceExample.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\InterfaceExample\obj\Debug\InterfaceExample.pdb

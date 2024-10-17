@@ -3,6 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\QuestTraining-2024\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E4CA0D31-64C2-4210-836C-CB7573645090}|..\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 13\\problems\\employeemanagement\\employeemanagementapp\\services\\jsonfilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5975EA-F81E-48CE-9508-14D5E8E3DD8D}|..\\Day 13\\Problems\\EnumExample\\EnumExample.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 13\\problems\\enumexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7DDD32-F0F2-430E-9BDB-1F0AA4D32E22}|..\\Day 13\\Problems\\FileHandling\\FileHandling.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 13\\problems\\filehandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D39858B-3458-4C2A-8C25-7CB78ABAE9DD}|..\\Day 13\\Problems\\InterfaceExample\\InterfaceExample.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 13\\problems\\interfaceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D39858B-3458-4C2A-8C25-7CB78ABAE9DD}|..\\Day 13\\Problems\\InterfaceExample\\InterfaceExample.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 13\\problems\\interfaceexample\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CA0D31-64C2-4210-836C-CB7573645090}|..\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 13\\problems\\employeemanagement\\employeemanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CA0D31-64C2-4210-836C-CB7573645090}|..\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 13\\problems\\employeemanagement\\employeemanagementapp\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CA0D31-64C2-4210-836C-CB7573645090}|..\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 13\\problems\\employeemanagement\\employeemanagementapp\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CA0D31-64C2-4210-836C-CB7573645090}|..\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 13\\problems\\employeemanagement\\employeemanagementapp\\services\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CA0D31-64C2-4210-836C-CB7573645090}|..\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\EmployeeManagementApp.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 13\\problems\\employeemanagement\\employeemanagementapp\\entities\\type\\employmenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2504BBA5-9B0E-42AD-8AE7-D68C37258262}|..\\Day 13\\Problems\\ConstructorExample\\ConstructorExample.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 13\\problems\\constructorexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3D521E98-CCD7-4AC8-9522-22FD92C13CE6}|..\\Day 12\\Assignment\\Question1\\Question1.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 12\\assignment\\question1\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,24 +55,167 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeManager.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "..\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\EmployeeManager.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\EmployeeManager.cs",
+              "RelativeToolTip": "..\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\EmployeeManager.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAGMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:15:45.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "JsonFileStorage.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\Services\\JsonFileStorage.cs",
+              "RelativeDocumentMoniker": "..\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\Services\\JsonFileStorage.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\Services\\JsonFileStorage.cs",
+              "RelativeToolTip": "..\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\Services\\JsonFileStorage.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:13:32.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\Services\\IStorageService.cs",
+              "RelativeDocumentMoniker": "..\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\Services\\IStorageService.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\Services\\IStorageService.cs",
+              "RelativeToolTip": "..\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\Services\\IStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:13:13.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmploymentType.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\Entities\\Type\\EmploymentType.cs",
+              "RelativeDocumentMoniker": "..\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\Entities\\Type\\EmploymentType.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\Entities\\Type\\EmploymentType.cs",
+              "RelativeToolTip": "..\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\Entities\\Type\\EmploymentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:11:47.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\Entities\\Employee.cs",
+              "RelativeToolTip": "..\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:11:16.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\Program.cs",
+              "RelativeToolTip": "..\\Day 13\\Problems\\EmployeeManagement\\EmployeeManagementApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:10:19.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Istudent.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 13\\Problems\\InterfaceExample\\Istudent.cs",
+              "RelativeDocumentMoniker": "..\\Day 13\\Problems\\InterfaceExample\\Istudent.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 13\\Problems\\InterfaceExample\\Istudent.cs",
+              "RelativeToolTip": "..\\Day 13\\Problems\\InterfaceExample\\Istudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:58:52.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 13\\Problems\\InterfaceExample\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day 13\\Problems\\InterfaceExample\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 13\\Problems\\InterfaceExample\\Program.cs",
+              "RelativeToolTip": "..\\Day 13\\Problems\\InterfaceExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:58:05.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 13\\Problems\\FileHandling\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day 13\\Problems\\FileHandling\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 13\\Problems\\FileHandling\\Program.cs",
+              "RelativeToolTip": "..\\Day 13\\Problems\\FileHandling\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:01:54.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 13\\Problems\\EnumExample\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day 13\\Problems\\EnumExample\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 13\\Problems\\EnumExample\\Program.cs",
+              "RelativeToolTip": "..\\Day 13\\Problems\\EnumExample\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:36:54.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 13\\Problems\\ConstructorExample\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day 13\\Problems\\ConstructorExample\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 13\\Problems\\ConstructorExample\\Program.cs",
+              "RelativeToolTip": "..\\Day 13\\Problems\\ConstructorExample\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:02:59.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "StudentManager.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 12\\Assignment\\Question1\\StudentManager.cs",
               "RelativeDocumentMoniker": "..\\Day 12\\Assignment\\Question1\\StudentManager.cs",
               "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 12\\Assignment\\Question1\\StudentManager.cs",
               "RelativeToolTip": "..\\Day 12\\Assignment\\Question1\\StudentManager.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAA3wD8AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T15:49:52.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "Mark.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 12\\Assignment\\Question1\\Mark.cs",
               "RelativeDocumentMoniker": "..\\Day 12\\Assignment\\Question1\\Mark.cs",
@@ -47,11 +223,12 @@
               "RelativeToolTip": "..\\Day 12\\Assignment\\Question1\\Mark.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T15:47:17.966Z"
+              "WhenOpened": "2024-10-16T15:47:17.966Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 12\\Assignment\\Question1\\Student.cs",
               "RelativeDocumentMoniker": "..\\Day 12\\Assignment\\Question1\\Student.cs",
@@ -59,11 +236,12 @@
               "RelativeToolTip": "..\\Day 12\\Assignment\\Question1\\Student.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T14:52:44.75Z"
+              "WhenOpened": "2024-10-16T14:52:44.75Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 12\\Assignment\\Question1\\Program.cs",
               "RelativeDocumentMoniker": "..\\Day 12\\Assignment\\Question1\\Program.cs",
@@ -71,7 +249,8 @@
               "RelativeToolTip": "..\\Day 12\\Assignment\\Question1\\Program.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwEwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T08:25:35.434Z"
+              "WhenOpened": "2024-10-16T08:25:35.434Z",
+              "EditorCaption": ""
             }
           ]
         }

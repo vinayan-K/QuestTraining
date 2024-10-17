@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\EnumExample\bin\Debug\EnumExample.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\EnumExample\bin\Debug\EnumExample.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\EnumExample\bin\Debug\EnumExample.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\EnumExample\obj\Debug\EnumExample.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\EnumExample\obj\Debug\EnumExample.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\EnumExample\obj\Debug\EnumExample.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\EnumExample\obj\Debug\EnumExample.pdb

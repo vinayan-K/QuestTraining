@@ -1,0 +1,10 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\EmployeeManagement\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\EmployeeManagement\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\EmployeeManagement\EmployeeManagementApp\bin\Debug\EmployeeManagementApp.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\EmployeeManagement\EmployeeManagementApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\EmployeeManagement\EmployeeManagementApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\EmployeeManagement\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\EmployeeManagement\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\EmployeeManagement\EmployeeManagementApp\obj\Debug\Employee.8111CF64.Up2Date
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\EmployeeManagement\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 13\Problems\EmployeeManagement\EmployeeManagementApp\obj\Debug\EmployeeManagementApp.pdb
