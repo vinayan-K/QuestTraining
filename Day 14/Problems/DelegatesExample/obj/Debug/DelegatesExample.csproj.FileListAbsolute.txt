@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 14\Problems\DelegatesExample\bin\Debug\DelegatesExample.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 14\Problems\DelegatesExample\bin\Debug\DelegatesExample.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 14\Problems\DelegatesExample\bin\Debug\DelegatesExample.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 14\Problems\DelegatesExample\obj\Debug\DelegatesExample.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 14\Problems\DelegatesExample\obj\Debug\DelegatesExample.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 14\Problems\DelegatesExample\obj\Debug\DelegatesExample.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 14\Problems\DelegatesExample\obj\Debug\DelegatesExample.pdb

@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 14\Assignment\Question11\bin\Debug\Question11.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 14\Assignment\Question11\bin\Debug\Question11.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 14\Assignment\Question11\bin\Debug\Question11.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 14\Assignment\Question11\obj\Debug\Question11.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 14\Assignment\Question11\obj\Debug\Question11.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 14\Assignment\Question11\obj\Debug\Question11.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 14\Assignment\Question11\obj\Debug\Question11.pdb
