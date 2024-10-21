@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\JoinExample\bin\Debug\JoinExample.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\JoinExample\bin\Debug\JoinExample.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\JoinExample\bin\Debug\JoinExample.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\JoinExample\obj\Debug\JoinExample.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\JoinExample\obj\Debug\JoinExample.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\JoinExample\obj\Debug\JoinExample.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\JoinExample\obj\Debug\JoinExample.pdb

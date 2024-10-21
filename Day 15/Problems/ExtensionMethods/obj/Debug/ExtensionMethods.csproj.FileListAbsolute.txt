@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

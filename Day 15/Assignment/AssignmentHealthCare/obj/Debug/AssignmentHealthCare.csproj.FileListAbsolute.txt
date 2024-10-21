@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Assignment\AssignmentHealthCare\bin\Debug\AssignmentHealthCare.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Assignment\AssignmentHealthCare\bin\Debug\AssignmentHealthCare.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Assignment\AssignmentHealthCare\bin\Debug\AssignmentHealthCare.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Assignment\AssignmentHealthCare\obj\Debug\AssignmentHealthCare.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Assignment\AssignmentHealthCare\obj\Debug\AssignmentHealthCare.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Assignment\AssignmentHealthCare\obj\Debug\AssignmentHealthCare.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Assignment\AssignmentHealthCare\obj\Debug\AssignmentHealthCare.pdb

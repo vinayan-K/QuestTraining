@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\Question8\bin\Debug\Question8.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\Question8\bin\Debug\Question8.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\Question8\bin\Debug\Question8.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\Question8\obj\Debug\Question8.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\Question8\obj\Debug\Question8.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\Question8\obj\Debug\Question8.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\Question8\obj\Debug\Question8.pdb

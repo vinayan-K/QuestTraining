@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\LinqExample2\bin\Debug\LinqExample2.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\LinqExample2\bin\Debug\LinqExample2.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\LinqExample2\bin\Debug\LinqExample2.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\LinqExample2\obj\Debug\LinqExample2.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\LinqExample2\obj\Debug\LinqExample2.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\LinqExample2\obj\Debug\LinqExample2.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 15\Problems\LinqExample2\obj\Debug\LinqExample2.pdb
