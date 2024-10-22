@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\ContactsManagementApp\bin\Debug\ContactsManagementApp.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\ContactsManagementApp\bin\Debug\ContactsManagementApp.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\ContactsManagementApp\bin\Debug\ContactsManagementApp.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\ContactsManagementApp\obj\Debug\ContactsManagementApp.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\ContactsManagementApp\obj\Debug\ContactsManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\ContactsManagementApp\obj\Debug\ContactsManagementApp.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\ContactsManagementApp\obj\Debug\ContactsManagementApp.pdb

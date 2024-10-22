@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\Function\bin\Debug\Function.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\Function\bin\Debug\Function.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\Function\bin\Debug\Function.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\Function\obj\Debug\Function.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\Function\obj\Debug\Function.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\Function\obj\Debug\Function.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\Function\obj\Debug\Function.pdb

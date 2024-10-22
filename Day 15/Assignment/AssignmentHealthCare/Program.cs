@@ -56,6 +56,7 @@ namespace HealthCare
                 Console.WriteLine(item.PatientName + " , " + item.PatientAge + " , " + item.PatientMedication + " , " + item.AppointmentDate);
             }
 
+
             var medicalConditionGroups = patients.GroupBy(x => x.MedicalCondtion);
             foreach (var group in medicalConditionGroups)
             {

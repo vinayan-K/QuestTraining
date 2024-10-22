@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\ChatApp\ConnectionString\bin\Debug\ConnectionString.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\ChatApp\ConnectionString\bin\Debug\ConnectionString.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\ChatApp\ConnectionString\bin\Debug\ConnectionString.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\ChatApp\ConnectionString\obj\Debug\ConnectionString.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\ChatApp\ConnectionString\obj\Debug\ConnectionString.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\ChatApp\ConnectionString\obj\Debug\ConnectionString.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\ChatApp\ConnectionString\obj\Debug\ConnectionString.pdb

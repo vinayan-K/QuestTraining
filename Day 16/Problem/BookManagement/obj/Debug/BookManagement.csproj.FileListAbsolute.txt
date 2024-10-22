@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\BookManagement\obj\Debug\BookManagement.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\BookManagement\obj\Debug\BookManagement.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\BookManagement\bin\Debug\BookManagement.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\BookManagement\bin\Debug\BookManagement.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\BookManagement\bin\Debug\BookManagement.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\BookManagement\obj\Debug\BookManagement.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 16\Problem\BookManagement\obj\Debug\BookManagement.pdb
