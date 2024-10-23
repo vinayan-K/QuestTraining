@@ -3,64 +3,73 @@
   "WorkspaceRootPath": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\QuestTraining-2024\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{700AA442-6820-4B56-981F-AFE56B6D5098}|..\\Day 17\\Problems\\HealthCare\\HealthCare.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 17\\problems\\healthcare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700AA442-6820-4B56-981F-AFE56B6D5098}|..\\Day 17\\Problems\\HealthCare\\HealthCare.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 17\\problems\\healthcare\\healthcaremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE224C2E-15AF-454B-9580-8A979A2EFCAB}|..\\Day 17\\Problems\\Ref\u0026Out\\Ref\u0026Out.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 17\\problems\\ref\u0026out\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACC93D3-C82E-4E73-8ECA-179FCBD74CDF}|..\\Day 17\\Problems\\Indexers\\Indexers.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 17\\problems\\indexers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568786BF-4F61-4951-A085-111FE4B44632}|..\\Day 15\\Assignment\\AssignmentHealthCare\\AssignmentHealthCare.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 15\\assignment\\assignmenthealthcare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700AA442-6820-4B56-981F-AFE56B6D5098}|..\\Day 17\\Problems\\HealthCare\\HealthCare.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 17\\problems\\healthcare\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700AA442-6820-4B56-981F-AFE56B6D5098}|..\\Day 17\\Problems\\HealthCare\\HealthCare.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 17\\problems\\healthcare\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700AA442-6820-4B56-981F-AFE56B6D5098}|..\\Day 17\\Problems\\HealthCare\\HealthCare.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 17\\problems\\healthcare\\data\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBD6F18-E0AE-495D-AC56-41B4E9BD0081}|..\\Day 17\\Problems\\ExceptionHandling\\ExceptionHandling.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 17\\problems\\exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0B263C-F398-4761-AEDE-92E2BCBF2A6E}|..\\Day 17\\Problems\\CalculatorReference\\CalculatorReference.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 17\\problems\\calculatorreference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F35172D-3E7E-4DA6-AF18-24A90AF48D7F}|..\\Day 17\\Problems\\Apputilities\\Apputilities.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 17\\problems\\apputilities\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD041471-763B-4040-9E78-F3B24A9E3420}|..\\Day 16\\Problem\\Question1\\Question1.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 16\\problem\\question1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD041471-763B-4040-9E78-F3B24A9E3420}|..\\Day 16\\Problem\\Question1\\Question1.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 16\\problem\\question1\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C664B7D5-FB71-4E8E-A1E3-4DDBA1F45EC7}|..\\Day 16\\Problem\\GenericType\\GenericType.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 16\\problem\\generictype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060A6937-BFE5-469E-ABFE-1672203D7CE6}|..\\Day 16\\Problem\\Function\\Function.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 16\\problem\\function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{52CF294A-2AE6-4B03-8BD8-98474D8769DB}|..\\Day 16\\Problem\\ContactsManagementApp\\ContactsManagementApp.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 16\\problem\\contactsmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{52CF294A-2AE6-4B03-8BD8-98474D8769DB}|..\\Day 16\\Problem\\ContactsManagementApp\\ContactsManagementApp.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 16\\problem\\contactsmanagementapp\\contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B416FA7-ADC1-4AF2-AEE2-87BE488079DC}|..\\Day 16\\Problem\\BookManagement\\BookManagement.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 16\\problem\\bookmanagement\\genericresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B416FA7-ADC1-4AF2-AEE2-87BE488079DC}|..\\Day 16\\Problem\\BookManagement\\BookManagement.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 16\\problem\\bookmanagement\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B416FA7-ADC1-4AF2-AEE2-87BE488079DC}|..\\Day 16\\Problem\\BookManagement\\BookManagement.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 16\\problem\\bookmanagement\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B416FA7-ADC1-4AF2-AEE2-87BE488079DC}|..\\Day 16\\Problem\\BookManagement\\BookManagement.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 16\\problem\\bookmanagement\\data\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{097E18B0-0434-4161-833D-2B63C2014AFE}|..\\Day 16\\Problem\\ChatApp\\ConnectionString\\ConnectionString.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 16\\problem\\chatapp\\connectionstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFD7EEAA-EC1E-44D6-A651-A777679CEC8C}|..\\Day 16\\Problem\\Books\\Books.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 16\\problem\\books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{097E18B0-0434-4161-833D-2B63C2014AFE}|..\\Day 16\\Problem\\ChatApp\\ConnectionString\\ConnectionString.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 16\\problem\\chatapp\\connectionstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD041471-763B-4040-9E78-F3B24A9E3420}|..\\Day 16\\Problem\\Question1\\Question1.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 16\\problem\\question1\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ACER_DOCUMENTS_QUESTDB.MDF/True/SqlTable/dbo.books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD041471-763B-4040-9E78-F3B24A9E3420}|..\\Day 16\\Problem\\Question1\\Question1.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 16\\problem\\question1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C664B7D5-FB71-4E8E-A1E3-4DDBA1F45EC7}|..\\Day 16\\Problem\\GenericType\\GenericType.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 16\\problem\\generictype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B416FA7-ADC1-4AF2-AEE2-87BE488079DC}|..\\Day 16\\Problem\\BookManagement\\BookManagement.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 16\\problem\\bookmanagement\\repositories\\membersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B416FA7-ADC1-4AF2-AEE2-87BE488079DC}|..\\Day 16\\Problem\\BookManagement\\BookManagement.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 16\\problem\\bookmanagement\\entities\\members.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B416FA7-ADC1-4AF2-AEE2-87BE488079DC}|..\\Day 16\\Problem\\BookManagement\\BookManagement.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 16\\problem\\bookmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{060A6937-BFE5-469E-ABFE-1672203D7CE6}|..\\Day 16\\Problem\\Function\\Function.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 16\\problem\\function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{568786BF-4F61-4951-A085-111FE4B44632}|..\\Day 15\\Assignment\\AssignmentHealthCare\\AssignmentHealthCare.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 15\\assignment\\assignmenthealthcare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B416FA7-ADC1-4AF2-AEE2-87BE488079DC}|..\\Day 16\\Problem\\BookManagement\\BookManagement.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 16\\problem\\bookmanagement\\genericresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C26C3B3-AB2C-4B6C-8C8B-4B7F150D7617}|..\\Day 15\\Problems\\LinqExample1\\LinqExample1.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 15\\problems\\linqexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{568786BF-4F61-4951-A085-111FE4B44632}|..\\Day 15\\Assignment\\AssignmentHealthCare\\AssignmentHealthCare.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 15\\assignment\\assignmenthealthcare\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2504BBA5-9B0E-42AD-8AE7-D68C37258262}|..\\Day 13\\Problems\\ConstructorExample\\ConstructorExample.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 13\\problems\\constructorexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{568786BF-4F61-4951-A085-111FE4B44632}|..\\Day 15\\Assignment\\AssignmentHealthCare\\AssignmentHealthCare.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 15\\assignment\\assignmenthealthcare\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF7522E4-30D0-4C14-9E28-552B3B19BD60}|..\\Day 11\\Problems\\Calculator\\Calculator.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 11\\problems\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,73 +79,219 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Contacts.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\ContactsManagementApp\\Contacts.cs",
-              "RelativeDocumentMoniker": "..\\Day 16\\Problem\\ContactsManagementApp\\Contacts.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\ContactsManagementApp\\Contacts.cs",
-              "RelativeToolTip": "..\\Day 16\\Problem\\ContactsManagementApp\\Contacts.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 13\\Problems\\ConstructorExample\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day 13\\Problems\\ConstructorExample\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 13\\Problems\\ConstructorExample\\Program.cs",
+              "RelativeToolTip": "..\\Day 13\\Problems\\ConstructorExample\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T11:56:15.883Z",
+              "WhenOpened": "2024-10-23T18:13:19.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 11\\Problems\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day 11\\Problems\\Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 11\\Problems\\Calculator\\Program.cs",
+              "RelativeToolTip": "..\\Day 11\\Problems\\Calculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:24:37.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 17\\Problems\\Indexers\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day 17\\Problems\\Indexers\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 17\\Problems\\Indexers\\Program.cs",
+              "RelativeToolTip": "..\\Day 17\\Problems\\Indexers\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T09:38:04.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 17\\Problems\\ExceptionHandling\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day 17\\Problems\\ExceptionHandling\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 17\\Problems\\ExceptionHandling\\Program.cs",
+              "RelativeToolTip": "..\\Day 17\\Problems\\ExceptionHandling\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:10:25.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 17\\Problems\\Ref\u0026Out\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day 17\\Problems\\Ref\u0026Out\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 17\\Problems\\Ref\u0026Out\\Program.cs",
+              "RelativeToolTip": "..\\Day 17\\Problems\\Ref\u0026Out\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:40:11.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HealthCareManager.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 17\\Problems\\HealthCare\\HealthCareManager.cs",
+              "RelativeDocumentMoniker": "..\\Day 17\\Problems\\HealthCare\\HealthCareManager.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 17\\Problems\\HealthCare\\HealthCareManager.cs",
+              "RelativeToolTip": "..\\Day 17\\Problems\\HealthCare\\HealthCareManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:25:13.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataStore.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 17\\Problems\\HealthCare\\Data\\DataStore.cs",
+              "RelativeDocumentMoniker": "..\\Day 17\\Problems\\HealthCare\\Data\\DataStore.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 17\\Problems\\HealthCare\\Data\\DataStore.cs",
+              "RelativeToolTip": "..\\Day 17\\Problems\\HealthCare\\Data\\DataStore.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:24:39.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 17\\Problems\\HealthCare\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "..\\Day 17\\Problems\\HealthCare\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 17\\Problems\\HealthCare\\Models\\Patient.cs",
+              "RelativeToolTip": "..\\Day 17\\Problems\\HealthCare\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:24:12.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 17\\Problems\\HealthCare\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "..\\Day 17\\Problems\\HealthCare\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 17\\Problems\\HealthCare\\Models\\Appointment.cs",
+              "RelativeToolTip": "..\\Day 17\\Problems\\HealthCare\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:23:46.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 17\\Problems\\HealthCare\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day 17\\Problems\\HealthCare\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 17\\Problems\\HealthCare\\Program.cs",
+              "RelativeToolTip": "..\\Day 17\\Problems\\HealthCare\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:22:30.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 17\\Problems\\CalculatorReference\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day 17\\Problems\\CalculatorReference\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 17\\Problems\\CalculatorReference\\Program.cs",
+              "RelativeToolTip": "..\\Day 17\\Problems\\CalculatorReference\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:09:03.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 17\\Problems\\Apputilities\\Calculator.cs",
+              "RelativeDocumentMoniker": "..\\Day 17\\Problems\\Apputilities\\Calculator.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 17\\Problems\\Apputilities\\Calculator.cs",
+              "RelativeToolTip": "..\\Day 17\\Problems\\Apputilities\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:06:45.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Contacts.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\ContactsManagementApp\\Contacts.cs",
+              "RelativeDocumentMoniker": "..\\Day 16\\Problem\\ContactsManagementApp\\Contacts.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\ContactsManagementApp\\Contacts.cs",
+              "RelativeToolTip": "..\\Day 16\\Problem\\ContactsManagementApp\\Contacts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:56:15.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\ContactsManagementApp\\Program.cs",
               "RelativeDocumentMoniker": "..\\Day 16\\Problem\\ContactsManagementApp\\Program.cs",
               "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\ContactsManagementApp\\Program.cs",
               "RelativeToolTip": "..\\Day 16\\Problem\\ContactsManagementApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACZAAAAAAAAAA==",
+              "ViewState": "AgIAAJoAAAAAAAAAAADwvw4AAACZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T11:55:57.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "dbo.books [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ACER_DOCUMENTS_QUESTDB.MDF/True/SqlTable/dbo.books.sql",
-              "ToolTip": "dbo.books [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-22T10:30:56.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\Books\\Program.cs",
               "RelativeDocumentMoniker": "..\\Day 16\\Problem\\Books\\Program.cs",
               "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\Books\\Program.cs",
               "RelativeToolTip": "..\\Day 16\\Problem\\Books\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAADwvyoAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAADwvyoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T10:05:24.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\ChatApp\\ConnectionString\\Program.cs",
               "RelativeDocumentMoniker": "..\\Day 16\\Problem\\ChatApp\\ConnectionString\\Program.cs",
               "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\ChatApp\\ConnectionString\\Program.cs",
               "RelativeToolTip": "..\\Day 16\\Problem\\ChatApp\\ConnectionString\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAADwvzcAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAADwvzcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T09:15:31.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "IShape.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\Question1\\IShape.cs",
               "RelativeDocumentMoniker": "..\\Day 16\\Problem\\Question1\\IShape.cs",
@@ -149,33 +304,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\Question1\\Program.cs",
               "RelativeDocumentMoniker": "..\\Day 16\\Problem\\Question1\\Program.cs",
               "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\Question1\\Program.cs",
               "RelativeToolTip": "..\\Day 16\\Problem\\Question1\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAywB0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wB0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T06:43:08.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\GenericType\\Program.cs",
               "RelativeDocumentMoniker": "..\\Day 16\\Problem\\GenericType\\Program.cs",
               "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\GenericType\\Program.cs",
               "RelativeToolTip": "..\\Day 16\\Problem\\GenericType\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwBAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T06:27:30.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 19,
               "Title": "GenericResponses.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\BookManagement\\GenericResponses.cs",
               "RelativeDocumentMoniker": "..\\Day 16\\Problem\\BookManagement\\GenericResponses.cs",
@@ -188,143 +343,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MembersRepository.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\BookManagement\\Repositories\\MembersRepository.cs",
-              "RelativeDocumentMoniker": "..\\Day 16\\Problem\\BookManagement\\Repositories\\MembersRepository.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\BookManagement\\Repositories\\MembersRepository.cs",
-              "RelativeToolTip": "..\\Day 16\\Problem\\BookManagement\\Repositories\\MembersRepository.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAYwBUAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T05:06:49.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\BookManagement\\Repositories\\BookRepository.cs",
-              "RelativeDocumentMoniker": "..\\Day 16\\Problem\\BookManagement\\Repositories\\BookRepository.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\BookManagement\\Repositories\\BookRepository.cs",
-              "RelativeToolTip": "..\\Day 16\\Problem\\BookManagement\\Repositories\\BookRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T05:06:29.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DataStore.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\BookManagement\\Data\\DataStore.cs",
-              "RelativeDocumentMoniker": "..\\Day 16\\Problem\\BookManagement\\Data\\DataStore.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\BookManagement\\Data\\DataStore.cs",
-              "RelativeToolTip": "..\\Day 16\\Problem\\BookManagement\\Data\\DataStore.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T04:56:07.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Members.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\BookManagement\\Entities\\Members.cs",
-              "RelativeDocumentMoniker": "..\\Day 16\\Problem\\BookManagement\\Entities\\Members.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\BookManagement\\Entities\\Members.cs",
-              "RelativeToolTip": "..\\Day 16\\Problem\\BookManagement\\Entities\\Members.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T04:53:00.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\BookManagement\\Entities\\Book.cs",
-              "RelativeDocumentMoniker": "..\\Day 16\\Problem\\BookManagement\\Entities\\Book.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\BookManagement\\Entities\\Book.cs",
-              "RelativeToolTip": "..\\Day 16\\Problem\\BookManagement\\Entities\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T04:52:47.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\BookManagement\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Day 16\\Problem\\BookManagement\\Program.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\BookManagement\\Program.cs",
-              "RelativeToolTip": "..\\Day 16\\Problem\\BookManagement\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA4AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T04:50:27.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\Function\\Program.cs",
               "RelativeDocumentMoniker": "..\\Day 16\\Problem\\Function\\Program.cs",
               "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\Function\\Program.cs",
               "RelativeToolTip": "..\\Day 16\\Problem\\Function\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T03:42:49.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Appointment.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 15\\Assignment\\AssignmentHealthCare\\Appointment.cs",
-              "RelativeDocumentMoniker": "..\\Day 15\\Assignment\\AssignmentHealthCare\\Appointment.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 15\\Assignment\\AssignmentHealthCare\\Appointment.cs",
-              "RelativeToolTip": "..\\Day 15\\Assignment\\AssignmentHealthCare\\Appointment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T16:01:36.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Patient.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 15\\Assignment\\AssignmentHealthCare\\Patient.cs",
-              "RelativeDocumentMoniker": "..\\Day 15\\Assignment\\AssignmentHealthCare\\Patient.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 15\\Assignment\\AssignmentHealthCare\\Patient.cs",
-              "RelativeToolTip": "..\\Day 15\\Assignment\\AssignmentHealthCare\\Patient.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T16:01:22.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 15\\Assignment\\AssignmentHealthCare\\Program.cs",
               "RelativeDocumentMoniker": "..\\Day 15\\Assignment\\AssignmentHealthCare\\Program.cs",
               "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 15\\Assignment\\AssignmentHealthCare\\Program.cs",
               "RelativeToolTip": "..\\Day 15\\Assignment\\AssignmentHealthCare\\Program.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAQwDoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T16:00:02.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 15\\Problems\\LinqExample1\\Program.cs",
               "RelativeDocumentMoniker": "..\\Day 15\\Problems\\LinqExample1\\Program.cs",
               "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 15\\Problems\\LinqExample1\\Program.cs",
               "RelativeToolTip": "..\\Day 15\\Problems\\LinqExample1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwB4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T05:02:22.43Z",
               "EditorCaption": ""

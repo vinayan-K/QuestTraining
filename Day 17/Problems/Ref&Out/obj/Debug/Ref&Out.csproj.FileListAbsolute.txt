@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 17\Problems\Ref&Out\bin\Debug\Ref&Out.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 17\Problems\Ref&Out\bin\Debug\Ref&Out.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 17\Problems\Ref&Out\bin\Debug\Ref&Out.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 17\Problems\Ref&Out\obj\Debug\Ref&Out.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 17\Problems\Ref&Out\obj\Debug\Ref&Out.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 17\Problems\Ref&Out\obj\Debug\Ref&Out.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 17\Problems\Ref&Out\obj\Debug\Ref&Out.pdb

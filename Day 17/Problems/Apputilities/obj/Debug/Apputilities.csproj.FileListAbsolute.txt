@@ -1,0 +1,6 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 17\Problems\Apputilities\bin\Debug\Apputilities.dll
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 17\Problems\Apputilities\bin\Debug\Apputilities.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 17\Problems\Apputilities\obj\Debug\Apputilities.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 17\Problems\Apputilities\obj\Debug\Apputilities.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 17\Problems\Apputilities\obj\Debug\Apputilities.dll
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 17\Problems\Apputilities\obj\Debug\Apputilities.pdb

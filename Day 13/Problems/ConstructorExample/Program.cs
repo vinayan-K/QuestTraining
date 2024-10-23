@@ -21,13 +21,14 @@ namespace ConstructorExample
     class Employee
     {
         public string Name { get; set; }
+    }
 
-        internal class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
             Person person = new Person(5);
-           
+
         }
     }
 }

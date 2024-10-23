@@ -1,0 +1,10 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 17\Problems\CalculatorReference\bin\Debug\CalculatorReference.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 17\Problems\CalculatorReference\bin\Debug\CalculatorReference.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 17\Problems\CalculatorReference\bin\Debug\CalculatorReference.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 17\Problems\CalculatorReference\bin\Debug\Apputilities.dll
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 17\Problems\CalculatorReference\bin\Debug\Apputilities.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 17\Problems\CalculatorReference\obj\Debug\CalculatorReference.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 17\Problems\CalculatorReference\obj\Debug\CalculatorReference.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 17\Problems\CalculatorReference\obj\Debug\Calculat.A7A8CE81.Up2Date
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 17\Problems\CalculatorReference\obj\Debug\CalculatorReference.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 17\Problems\CalculatorReference\obj\Debug\CalculatorReference.pdb
