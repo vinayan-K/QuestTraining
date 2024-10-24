@@ -30,7 +30,7 @@ namespace Assesment2
                     Console.WriteLine("Enter Specialization :");
                     doctor.Specialization = Console.ReadLine();
                     Console.WriteLine("Enter Patient Id : ");
-                    doctor.PatientId = int.Parse(Console.ReadLine());
+                    doctor.PatientId = Convert.ToInt32(Console.ReadLine());
                     _doctorRepository.AddDoctor(doctor);
                     break;
                 case "2":

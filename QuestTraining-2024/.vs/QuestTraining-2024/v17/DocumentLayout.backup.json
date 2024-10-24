@@ -6,31 +6,25 @@
       "AbsoluteMoniker": "D:0:0:{8F1A44A7-565C-4F22-ADA3-2E1FE731085A}|..\\Assesments\\Assesmwnt2\\Assesment2\\Assesment2.csproj|c:\\users\\acer\\documents\\github\\questtraining\\assesments\\assesmwnt2\\assesment2\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ACER_DOCUMENTS_ASSESMENTDATABASE.MDF/True/SqlTable/dbo.Doctor.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ACER_DOCUMENTS_ASSESMENTDATABASE.MDF/True/SqlTable/dbo.Patient.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{8F1A44A7-565C-4F22-ADA3-2E1FE731085A}|..\\Assesments\\Assesmwnt2\\Assesment2\\Assesment2.csproj|c:\\users\\acer\\documents\\github\\questtraining\\assesments\\assesmwnt2\\assesment2\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F1A44A7-565C-4F22-ADA3-2E1FE731085A}|..\\Assesments\\Assesmwnt2\\Assesment2\\Assesment2.csproj|c:\\users\\acer\\documents\\github\\questtraining\\assesments\\assesmwnt2\\assesment2\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52CF294A-2AE6-4B03-8BD8-98474D8769DB}|..\\Day 16\\Problem\\ContactsManagementApp\\ContactsManagementApp.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 16\\problem\\contactsmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8F1A44A7-565C-4F22-ADA3-2E1FE731085A}|..\\Assesments\\Assesmwnt2\\Assesment2\\Assesment2.csproj|c:\\users\\acer\\documents\\github\\questtraining\\assesments\\assesmwnt2\\assesment2\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F1A44A7-565C-4F22-ADA3-2E1FE731085A}|..\\Assesments\\Assesmwnt2\\Assesment2\\Assesment2.csproj|c:\\users\\acer\\documents\\github\\questtraining\\assesments\\assesmwnt2\\assesment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F1A44A7-565C-4F22-ADA3-2E1FE731085A}|..\\Assesments\\Assesmwnt2\\Assesment2\\Assesment2.csproj|c:\\users\\acer\\documents\\github\\questtraining\\assesments\\assesmwnt2\\assesment2\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F1A44A7-565C-4F22-ADA3-2E1FE731085A}|..\\Assesments\\Assesmwnt2\\Assesment2\\Assesment2.csproj|c:\\users\\acer\\documents\\github\\questtraining\\assesments\\assesmwnt2\\assesment2\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B1FD7B2-C7A5-4FE3-AB4D-F41AE331C94D}|..\\Day 12\\Problems\\CreditCard\\CreditCard.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 12\\problems\\creditcard\\creditcardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ACER_DOCUMENTS_ASSESMENTDATABASE.MDF/True/SqlTable/dbo.Patient.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1A44A7-565C-4F22-ADA3-2E1FE731085A}|..\\Assesments\\Assesmwnt2\\Assesment2\\Assesment2.csproj|c:\\users\\acer\\documents\\github\\questtraining\\assesments\\assesmwnt2\\assesment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ACER_DOCUMENTS_ASSESMENTDATABASE.MDF/True/SqlTable/dbo.Doctor.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,32 +34,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\ContactsManagementApp\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Day 16\\Problem\\ContactsManagementApp\\Program.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 16\\Problem\\ContactsManagementApp\\Program.cs",
-              "RelativeToolTip": "..\\Day 16\\Problem\\ContactsManagementApp\\Program.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAkwFUAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T07:34:38.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreditCardManager.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 12\\Problems\\CreditCard\\CreditCardManager.cs",
-              "RelativeDocumentMoniker": "..\\Day 12\\Problems\\CreditCard\\CreditCardManager.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 12\\Problems\\CreditCard\\CreditCardManager.cs",
-              "RelativeToolTip": "..\\Day 12\\Problems\\CreditCard\\CreditCardManager.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T07:07:28.155Z",
+              "DocumentIndex": 5,
+              "Title": "dbo.Patient [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ACER_DOCUMENTS_ASSESMENTDATABASE.MDF/True/SqlTable/dbo.Patient.sql",
+              "ToolTip": "dbo.Patient [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-24T08:03:56.638Z",
               "EditorCaption": ""
             },
             {
@@ -76,60 +54,49 @@
               "RelativeDocumentMoniker": "..\\Assesments\\Assesmwnt2\\Assesment2\\Manager.cs",
               "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Assesments\\Assesmwnt2\\Assesment2\\Manager.cs*",
               "RelativeToolTip": "..\\Assesments\\Assesmwnt2\\Assesment2\\Manager.cs*",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAkwGYAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T06:49:50.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "dbo.Patient [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ACER_DOCUMENTS_ASSESMENTDATABASE.MDF/True/SqlTable/dbo.Patient.sql",
-              "ToolTip": "dbo.Patient [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-24T06:41:09.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "dbo.Doctor [Data]",
+              "DocumentIndex": 7,
+              "Title": "dbo.Doctor.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ACER_DOCUMENTS_ASSESMENTDATABASE.MDF/True/SqlTable/dbo.Doctor.sql",
-              "ToolTip": "dbo.Doctor [Data]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ACER_DOCUMENTS_ASSESMENTDATABASE.MDF/True/SqlTable/dbo.Doctor.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-24T06:41:04.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T06:41:04.128Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "DoctorRepository.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Assesments\\Assesmwnt2\\Assesment2\\Repositories\\DoctorRepository.cs",
               "RelativeDocumentMoniker": "..\\Assesments\\Assesmwnt2\\Assesment2\\Repositories\\DoctorRepository.cs",
               "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Assesments\\Assesmwnt2\\Assesment2\\Repositories\\DoctorRepository.cs",
               "RelativeToolTip": "..\\Assesments\\Assesmwnt2\\Assesment2\\Repositories\\DoctorRepository.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAgwEoAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T04:12:39.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "PatientRepository.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Assesments\\Assesmwnt2\\Assesment2\\Repositories\\PatientRepository.cs",
               "RelativeDocumentMoniker": "..\\Assesments\\Assesmwnt2\\Assesment2\\Repositories\\PatientRepository.cs",
               "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Assesments\\Assesmwnt2\\Assesment2\\Repositories\\PatientRepository.cs",
               "RelativeToolTip": "..\\Assesments\\Assesmwnt2\\Assesment2\\Repositories\\PatientRepository.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAA5wGsAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwGsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T04:12:20.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Patient.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Assesments\\Assesmwnt2\\Assesment2\\Models\\Patient.cs",
               "RelativeDocumentMoniker": "..\\Assesments\\Assesmwnt2\\Assesment2\\Models\\Patient.cs",
@@ -142,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Assesments\\Assesmwnt2\\Assesment2\\Models\\Doctor.cs",
               "RelativeDocumentMoniker": "..\\Assesments\\Assesmwnt2\\Assesment2\\Models\\Doctor.cs",

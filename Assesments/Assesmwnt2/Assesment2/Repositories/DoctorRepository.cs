@@ -21,11 +21,11 @@ namespace Assesment2.Repositories
             IF NOT EXISTS (SELECT * FROM sysobjects WHERE name='Doctor' AND xtype='U')
             BEGIN
             CREATE TABLE Doctor (
-            Id INT PRIMARY KEY IDENTITY(1,1),
+            Id INT PRIMARY KEY IDENTITY,
             Name VARCHAR(100) NOT NULL,
             Specialization VARCHAR(50) NOT NULL,
             PatientId INT NULL,
-            CONSTRAINT FK_Patient_Id FOREIGN KEY (PatientId) REFERENCES Patient(PatientId)
+            CONSTRAINT FK_Patient_Id FOREIGN KEY (PatientId) REFERENCES Patient(PatientId) ON DELETE SET NULL
             );
             END";
 
