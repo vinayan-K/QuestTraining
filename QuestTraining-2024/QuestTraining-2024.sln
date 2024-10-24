@@ -243,6 +243,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "..\Day
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers", "..\Day 17\Problems\Indexers\Indexers.csproj", "{3ACC93D3-C82E-4E73-8ECA-179FCBD74CDF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 18", "Day 18", "{B51CC312-3CBD-4EC7-B04B-EB1E5A7F5FBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assesment2", "..\Assesments\Assesmwnt2\Assesment2\Assesment2.csproj", "{8F1A44A7-565C-4F22-ADA3-2E1FE731085A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -669,6 +673,10 @@ Global
 		{3ACC93D3-C82E-4E73-8ECA-179FCBD74CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3ACC93D3-C82E-4E73-8ECA-179FCBD74CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3ACC93D3-C82E-4E73-8ECA-179FCBD74CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F1A44A7-565C-4F22-ADA3-2E1FE731085A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F1A44A7-565C-4F22-ADA3-2E1FE731085A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F1A44A7-565C-4F22-ADA3-2E1FE731085A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F1A44A7-565C-4F22-ADA3-2E1FE731085A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -779,6 +787,7 @@ Global
 		{FE224C2E-15AF-454B-9580-8A979A2EFCAB} = {0AE8F243-0370-4E83-9625-E893001A551F}
 		{3BBD6F18-E0AE-495D-AC56-41B4E9BD0081} = {0AE8F243-0370-4E83-9625-E893001A551F}
 		{3ACC93D3-C82E-4E73-8ECA-179FCBD74CDF} = {0AE8F243-0370-4E83-9625-E893001A551F}
+		{8F1A44A7-565C-4F22-ADA3-2E1FE731085A} = {B51CC312-3CBD-4EC7-B04B-EB1E5A7F5FBC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {18C8B573-86C5-4259-9687-7BD20193AE15}
