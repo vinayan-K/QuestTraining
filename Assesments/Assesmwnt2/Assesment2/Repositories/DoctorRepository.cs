@@ -1,4 +1,4 @@
-﻿using Assesment2.Models;
+﻿using Assesment2.Entities;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
@@ -33,7 +33,7 @@ namespace Assesment2.Repositories
             {
                 SqlCommand command = new SqlCommand(createTableQuery, connection);
                 connection.Open();
-                command.ExecuteNonQuery();
+                command.ExecuteNonQuery();               
             }
         }
         public void AddDoctor(Doctor doctor)

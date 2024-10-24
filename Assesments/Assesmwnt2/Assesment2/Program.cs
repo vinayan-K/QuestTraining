@@ -1,4 +1,4 @@
-﻿using Assesment2.Models;
+﻿using Assesment2.Entities;
 using Assesment2.Repositories;
 using System;
 using System.Collections.Generic;
@@ -10,7 +10,7 @@ namespace Assesment2
 {
     internal class Program
     {
-       
+
         static void Main(string[] args)
         {
             var manger = new Manager();

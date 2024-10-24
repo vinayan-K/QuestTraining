@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assesment2.Models
+namespace Assesment2.Entities
 {
     internal class Patient
     {

@@ -1,4 +1,4 @@
-﻿using Assesment2.Models;
+﻿using Assesment2.Entities;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
@@ -81,6 +81,7 @@ namespace Assesment2.Repositories
                 Console.WriteLine($"{item.Name} - {item.MedicalCondition}");
             }
             return patients;
+            
         }
 
 
