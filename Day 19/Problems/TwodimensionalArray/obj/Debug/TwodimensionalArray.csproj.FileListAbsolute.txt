@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 19\Problems\TwodimensionalArray\bin\Debug\TwodimensionalArray.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 19\Problems\TwodimensionalArray\bin\Debug\TwodimensionalArray.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 19\Problems\TwodimensionalArray\bin\Debug\TwodimensionalArray.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 19\Problems\TwodimensionalArray\obj\Debug\TwodimensionalArray.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 19\Problems\TwodimensionalArray\obj\Debug\TwodimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 19\Problems\TwodimensionalArray\obj\Debug\TwodimensionalArray.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 19\Problems\TwodimensionalArray\obj\Debug\TwodimensionalArray.pdb

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{285C7100-A7F7-4406-83E6-E1B97DBCB701}</ProjectGuid>
+    <ProjectGuid>{A5685992-E383-4917-B9E0-2BEE5AB729AE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SmartPhone</RootNamespace>
-    <AssemblyName>SmartPhone</AssemblyName>
+    <RootNamespace>TwodimensionalArray</RootNamespace>
+    <AssemblyName>TwodimensionalArray</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
