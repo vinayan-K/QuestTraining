@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace HealthCare.Data
 {
-    internal class DataStore
+    internal class DataStore 
     {
         public List<Patient> Patients { get; set; } = new List<Patient>();
         public List<Appointment> Appointments { get; set; } = new List<Appointment>();
@@ -23,8 +23,6 @@ namespace HealthCare.Data
             Appointments.Add(new Appointment { Id = 3, PatientId = 3, DoctorName = "Dr. Carter", AppointmentDate = DateTime.Now.AddDays(-10), AppointmentType = "Surgery" });
             Appointments.Add(new Appointment { Id = 4, PatientId = 1, DoctorName = "Dr. Adams", AppointmentDate = DateTime.Now.AddDays(-20), AppointmentType = "Follow-up" });
             Appointments.Add(new Appointment { Id = 5, PatientId = 1, DoctorName = "Dr. Adams", AppointmentDate = DateTime.Now.AddDays(-5), AppointmentType = "Consultation" });
-        }
-        
-        
+        }                      
     }
 }

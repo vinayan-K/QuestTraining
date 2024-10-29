@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 21\Problems\CultureInfo\bin\Debug\CultureInfo.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 21\Problems\CultureInfo\bin\Debug\CultureInfo.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 21\Problems\CultureInfo\bin\Debug\CultureInfo.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 21\Problems\CultureInfo\obj\Debug\CultureInfoExample.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 21\Problems\CultureInfo\obj\Debug\CultureInfoExample.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 21\Problems\CultureInfo\obj\Debug\CultureInfo.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 21\Problems\CultureInfo\obj\Debug\CultureInfo.pdb

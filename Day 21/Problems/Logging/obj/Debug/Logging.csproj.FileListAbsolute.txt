@@ -1,0 +1,11 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 21\Problems\Logging\bin\Debug\Logging.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 21\Problems\Logging\bin\Debug\Logging.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 21\Problems\Logging\bin\Debug\Logging.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 21\Problems\Logging\bin\Debug\log4net.dll
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 21\Problems\Logging\bin\Debug\log4net.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 21\Problems\Logging\bin\Debug\log4net.xml
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 21\Problems\Logging\obj\Debug\Logging.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 21\Problems\Logging\obj\Debug\Logging.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 21\Problems\Logging\obj\Debug\Logging.csproj.Up2Date
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 21\Problems\Logging\obj\Debug\Logging.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 21\Problems\Logging\obj\Debug\Logging.pdb

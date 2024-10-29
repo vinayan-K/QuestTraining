@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 21\Assignment\ShoppingCartAssignment\obj\Debug\ShoppingCartAssignment.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 21\Assignment\ShoppingCartAssignment\obj\Debug\ShoppingCartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 21\Assignment\ShoppingCartAssignment\bin\Debug\ShoppingCartAssignment.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 21\Assignment\ShoppingCartAssignment\bin\Debug\ShoppingCartAssignment.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 21\Assignment\ShoppingCartAssignment\bin\Debug\ShoppingCartAssignment.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 21\Assignment\ShoppingCartAssignment\obj\Debug\ShoppingCartAssignment.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 21\Assignment\ShoppingCartAssignment\obj\Debug\ShoppingCartAssignment.pdb

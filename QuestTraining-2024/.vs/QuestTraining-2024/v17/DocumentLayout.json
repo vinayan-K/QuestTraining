@@ -3,70 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\QuestTraining-2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C67F5B2F-CFB6-406B-A1A0-E75C188F9598}|..\\Day 20\\Problems\\MineSweeper\\MineSweeper.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 20\\problems\\minesweeper\\minesweeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF93ADA0-E74A-46D3-8E54-77AE34972E33}|..\\Day 21\\Assignment\\ShoppingCartAssignment\\ShoppingCartAssignment.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 21\\assignment\\shoppingcartassignment\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C67F5B2F-CFB6-406B-A1A0-E75C188F9598}|..\\Day 20\\Problems\\MineSweeper\\MineSweeper.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 20\\problems\\minesweeper\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF93ADA0-E74A-46D3-8E54-77AE34972E33}|..\\Day 21\\Assignment\\ShoppingCartAssignment\\ShoppingCartAssignment.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 21\\assignment\\shoppingcartassignment\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C67F5B2F-CFB6-406B-A1A0-E75C188F9598}|..\\Day 20\\Problems\\MineSweeper\\MineSweeper.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 20\\problems\\minesweeper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF93ADA0-E74A-46D3-8E54-77AE34972E33}|..\\Day 21\\Assignment\\ShoppingCartAssignment\\ShoppingCartAssignment.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 21\\assignment\\shoppingcartassignment\\idiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C67F5B2F-CFB6-406B-A1A0-E75C188F9598}|..\\Day 20\\Problems\\MineSweeper\\MineSweeper.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 20\\problems\\minesweeper\\cellstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF93ADA0-E74A-46D3-8E54-77AE34972E33}|..\\Day 21\\Assignment\\ShoppingCartAssignment\\ShoppingCartAssignment.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 21\\assignment\\shoppingcartassignment\\percentagediscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C67F5B2F-CFB6-406B-A1A0-E75C188F9598}|..\\Day 20\\Problems\\MineSweeper\\MineSweeper.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 20\\problems\\minesweeper\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF93ADA0-E74A-46D3-8E54-77AE34972E33}|..\\Day 21\\Assignment\\ShoppingCartAssignment\\ShoppingCartAssignment.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 21\\assignment\\shoppingcartassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92768022-3C5F-4DE1-A7E6-01B435FA0750}|..\\Day 20\\Problems\\CricketGame\\CricketGame.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 20\\problems\\cricketgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{700AA442-6820-4B56-981F-AFE56B6D5098}|..\\Day 17\\Problems\\HealthCare\\HealthCare.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 17\\problems\\healthcare\\data\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92768022-3C5F-4DE1-A7E6-01B435FA0750}|..\\Day 20\\Problems\\CricketGame\\CricketGame.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 20\\problems\\cricketgame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{700AA442-6820-4B56-981F-AFE56B6D5098}|..\\Day 17\\Problems\\HealthCare\\HealthCare.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 17\\problems\\healthcare\\healthcaremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92768022-3C5F-4DE1-A7E6-01B435FA0750}|..\\Day 20\\Problems\\CricketGame\\CricketGame.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 20\\problems\\cricketgame\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8D5A2BE-E3A6-4C49-A014-38B2BE930DD0}|..\\Day 21\\Problems\\CultureInfo\\CultureInfo.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 21\\problems\\cultureinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92768022-3C5F-4DE1-A7E6-01B435FA0750}|..\\Day 20\\Problems\\CricketGame\\CricketGame.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 20\\problems\\cricketgame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9A1695D-48B3-4219-9CF5-EBDA755D787A}|..\\Day 21\\Problems\\Serilog\\Serilog.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 21\\problems\\serilog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B9FFA3E-EE97-454E-8C2B-09B3650B35C9}|..\\Day 20\\Problems\\RockPaperScissor\\RockPaperScissor.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 20\\problems\\rockpaperscissor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9FFA3E-EE97-454E-8C2B-09B3650B35C9}|..\\Day 20\\Problems\\RockPaperScissor\\RockPaperScissor.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 20\\problems\\rockpaperscissor\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9FFA3E-EE97-454E-8C2B-09B3650B35C9}|..\\Day 20\\Problems\\RockPaperScissor\\RockPaperScissor.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 20\\problems\\rockpaperscissor\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D27F50AE-1999-4B34-9D34-2DB240ED0113}|..\\Day 20\\Problems\\Threading\\Threading.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 20\\problems\\threading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F1A44A7-565C-4F22-ADA3-2E1FE731085A}|..\\Assesments\\Assesmwnt2\\Assesment2\\Assesment2.csproj|c:\\users\\acer\\documents\\github\\questtraining\\assesments\\assesmwnt2\\assesment2\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F1A44A7-565C-4F22-ADA3-2E1FE731085A}|..\\Assesments\\Assesmwnt2\\Assesment2\\Assesment2.csproj|c:\\users\\acer\\documents\\github\\questtraining\\assesments\\assesmwnt2\\assesment2\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F1A44A7-565C-4F22-ADA3-2E1FE731085A}|..\\Assesments\\Assesmwnt2\\Assesment2\\Assesment2.csproj|c:\\users\\acer\\documents\\github\\questtraining\\assesments\\assesmwnt2\\assesment2\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F1A44A7-565C-4F22-ADA3-2E1FE731085A}|..\\Assesments\\Assesmwnt2\\Assesment2\\Assesment2.csproj|c:\\users\\acer\\documents\\github\\questtraining\\assesments\\assesmwnt2\\assesment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE382533-A006-4C11-ACF7-16EDF1A643C5}|..\\Day 20\\Problems\\Debug\\Debug.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 20\\problems\\debug\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5685992-E383-4917-B9E0-2BEE5AB729AE}|..\\Day 19\\Problems\\TwodimensionalArray\\TwodimensionalArray.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 19\\problems\\twodimensionalarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F1A44A7-565C-4F22-ADA3-2E1FE731085A}|..\\Assesments\\Assesmwnt2\\Assesment2\\Assesment2.csproj|c:\\users\\acer\\documents\\github\\questtraining\\assesments\\assesmwnt2\\assesment2\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ACER_DOCUMENTS_ASSESMENTDATABASE.MDF/True/SqlTable/dbo.Doctor.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ACER_DOCUMENTS_ASSESMENTDATABASE.MDF/True/SqlTable/dbo.Patient.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{41DB4E60-9042-42D7-955E-1AE34B770A14}|..\\Day 21\\Problems\\Logging\\Logging.csproj|c:\\users\\acer\\documents\\github\\questtraining\\day 21\\problems\\logging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -76,278 +40,137 @@
       "DocumentGroups": [
         {
           "DockedHeight": 363,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\Threading\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Day 20\\Problems\\Threading\\Program.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\Threading\\Program.cs",
-              "RelativeToolTip": "..\\Day 20\\Problems\\Threading\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBQAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "DataStore.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 17\\Problems\\HealthCare\\Data\\DataStore.cs",
+              "RelativeDocumentMoniker": "..\\Day 17\\Problems\\HealthCare\\Data\\DataStore.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 17\\Problems\\HealthCare\\Data\\DataStore.cs",
+              "RelativeToolTip": "..\\Day 17\\Problems\\HealthCare\\Data\\DataStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T11:38:14.078Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CellState.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\MineSweeper\\CellState.cs",
-              "RelativeDocumentMoniker": "..\\Day 20\\Problems\\MineSweeper\\CellState.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\MineSweeper\\CellState.cs",
-              "RelativeToolTip": "..\\Day 20\\Problems\\MineSweeper\\CellState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T09:29:22.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Minesweeper.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\MineSweeper\\Minesweeper.cs",
-              "RelativeDocumentMoniker": "..\\Day 20\\Problems\\MineSweeper\\Minesweeper.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\MineSweeper\\Minesweeper.cs",
-              "RelativeToolTip": "..\\Day 20\\Problems\\MineSweeper\\Minesweeper.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAuwCIAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T09:26:20.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\MineSweeper\\GameManager.cs",
-              "RelativeDocumentMoniker": "..\\Day 20\\Problems\\MineSweeper\\GameManager.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\MineSweeper\\GameManager.cs",
-              "RelativeToolTip": "..\\Day 20\\Problems\\MineSweeper\\GameManager.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T08:46:39.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\MineSweeper\\Player.cs",
-              "RelativeDocumentMoniker": "..\\Day 20\\Problems\\MineSweeper\\Player.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\MineSweeper\\Player.cs",
-              "RelativeToolTip": "..\\Day 20\\Problems\\MineSweeper\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T08:44:35.259Z",
+              "WhenOpened": "2024-10-29T15:16:20.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "IDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 21\\Assignment\\ShoppingCartAssignment\\IDiscount.cs",
+              "RelativeDocumentMoniker": "..\\Day 21\\Assignment\\ShoppingCartAssignment\\IDiscount.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 21\\Assignment\\ShoppingCartAssignment\\IDiscount.cs",
+              "RelativeToolTip": "..\\Day 21\\Assignment\\ShoppingCartAssignment\\IDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:40:25.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PercentageDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 21\\Assignment\\ShoppingCartAssignment\\PercentageDiscount.cs",
+              "RelativeDocumentMoniker": "..\\Day 21\\Assignment\\ShoppingCartAssignment\\PercentageDiscount.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 21\\Assignment\\ShoppingCartAssignment\\PercentageDiscount.cs",
+              "RelativeToolTip": "..\\Day 21\\Assignment\\ShoppingCartAssignment\\PercentageDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:40:07.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 21\\Assignment\\ShoppingCartAssignment\\Cart.cs",
+              "RelativeDocumentMoniker": "..\\Day 21\\Assignment\\ShoppingCartAssignment\\Cart.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 21\\Assignment\\ShoppingCartAssignment\\Cart.cs",
+              "RelativeToolTip": "..\\Day 21\\Assignment\\ShoppingCartAssignment\\Cart.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:39:39.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 21\\Assignment\\ShoppingCartAssignment\\CartItem.cs",
+              "RelativeDocumentMoniker": "..\\Day 21\\Assignment\\ShoppingCartAssignment\\CartItem.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 21\\Assignment\\ShoppingCartAssignment\\CartItem.cs",
+              "RelativeToolTip": "..\\Day 21\\Assignment\\ShoppingCartAssignment\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:39:28.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\MineSweeper\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Day 20\\Problems\\MineSweeper\\Program.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\MineSweeper\\Program.cs",
-              "RelativeToolTip": "..\\Day 20\\Problems\\MineSweeper\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 21\\Assignment\\ShoppingCartAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day 21\\Assignment\\ShoppingCartAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 21\\Assignment\\ShoppingCartAssignment\\Program.cs",
+              "RelativeToolTip": "..\\Day 21\\Assignment\\ShoppingCartAssignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T08:42:50.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\CricketGame\\GameManager.cs",
-              "RelativeDocumentMoniker": "..\\Day 20\\Problems\\CricketGame\\GameManager.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\CricketGame\\GameManager.cs",
-              "RelativeToolTip": "..\\Day 20\\Problems\\CricketGame\\GameManager.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwC0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T07:12:30.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Computer.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\CricketGame\\Computer.cs",
-              "RelativeDocumentMoniker": "..\\Day 20\\Problems\\CricketGame\\Computer.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\CricketGame\\Computer.cs",
-              "RelativeToolTip": "..\\Day 20\\Problems\\CricketGame\\Computer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T07:10:58.154Z",
+              "WhenOpened": "2024-10-29T12:38:30.097Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\CricketGame\\Player.cs",
-              "RelativeDocumentMoniker": "..\\Day 20\\Problems\\CricketGame\\Player.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\CricketGame\\Player.cs",
-              "RelativeToolTip": "..\\Day 20\\Problems\\CricketGame\\Player.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T07:05:57.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\CricketGame\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Day 20\\Problems\\CricketGame\\Program.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\CricketGame\\Program.cs",
-              "RelativeToolTip": "..\\Day 20\\Problems\\CricketGame\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 21\\Problems\\Serilog\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day 21\\Problems\\Serilog\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 21\\Problems\\Serilog\\Program.cs",
+              "RelativeToolTip": "..\\Day 21\\Problems\\Serilog\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T07:05:38.474Z",
+              "WhenOpened": "2024-10-29T06:05:14.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\RockPaperScissor\\Game.cs",
-              "RelativeDocumentMoniker": "..\\Day 20\\Problems\\RockPaperScissor\\Game.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\RockPaperScissor\\Game.cs",
-              "RelativeToolTip": "..\\Day 20\\Problems\\RockPaperScissor\\Game.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwD8AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "HealthCareManager.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 17\\Problems\\HealthCare\\HealthCareManager.cs",
+              "RelativeDocumentMoniker": "..\\Day 17\\Problems\\HealthCare\\HealthCareManager.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 17\\Problems\\HealthCare\\HealthCareManager.cs",
+              "RelativeToolTip": "..\\Day 17\\Problems\\HealthCare\\HealthCareManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T06:11:48.643Z",
+              "WhenOpened": "2024-10-29T04:43:30.551Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\RockPaperScissor\\Player.cs",
-              "RelativeDocumentMoniker": "..\\Day 20\\Problems\\RockPaperScissor\\Player.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\RockPaperScissor\\Player.cs",
-              "RelativeToolTip": "..\\Day 20\\Problems\\RockPaperScissor\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 21\\Problems\\CultureInfo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day 21\\Problems\\CultureInfo\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 21\\Problems\\CultureInfo\\Program.cs",
+              "RelativeToolTip": "..\\Day 21\\Problems\\CultureInfo\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T05:58:18.681Z",
+              "WhenOpened": "2024-10-29T06:28:51.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\RockPaperScissor\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Day 20\\Problems\\RockPaperScissor\\Program.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\RockPaperScissor\\Program.cs",
-              "RelativeToolTip": "..\\Day 20\\Problems\\RockPaperScissor\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 21\\Problems\\Logging\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day 21\\Problems\\Logging\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 21\\Problems\\Logging\\Program.cs",
+              "RelativeToolTip": "..\\Day 21\\Problems\\Logging\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswCMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T05:57:36.189Z",
+              "WhenOpened": "2024-10-29T03:50:45.338Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\Debug\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Day 20\\Problems\\Debug\\Program.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 20\\Problems\\Debug\\Program.cs",
-              "RelativeToolTip": "..\\Day 20\\Problems\\Debug\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T05:23:05.516Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 19\\Problems\\TwodimensionalArray\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Day 19\\Problems\\TwodimensionalArray\\Program.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Day 19\\Problems\\TwodimensionalArray\\Program.cs",
-              "RelativeToolTip": "..\\Day 19\\Problems\\TwodimensionalArray\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T11:36:23.522Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "dbo.Patient.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ACER_DOCUMENTS_ASSESMENTDATABASE.MDF/True/SqlTable/dbo.Patient.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ACER_DOCUMENTS_ASSESMENTDATABASE.MDF/True/SqlTable/dbo.Patient.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-25T03:43:08.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "dbo.Doctor.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ACER_DOCUMENTS_ASSESMENTDATABASE.MDF/True/SqlTable/dbo.Doctor.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ACER_DOCUMENTS_ASSESMENTDATABASE.MDF/True/SqlTable/dbo.Doctor.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-25T03:42:30.463Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DoctorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Assesments\\Assesmwnt2\\Assesment2\\Repositories\\DoctorRepository.cs",
-              "RelativeDocumentMoniker": "..\\Assesments\\Assesmwnt2\\Assesment2\\Repositories\\DoctorRepository.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Assesments\\Assesmwnt2\\Assesment2\\Repositories\\DoctorRepository.cs",
-              "RelativeToolTip": "..\\Assesments\\Assesmwnt2\\Assesment2\\Repositories\\DoctorRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwC4AAABnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T04:12:39.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PatientRepository.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Assesments\\Assesmwnt2\\Assesment2\\Repositories\\PatientRepository.cs",
-              "RelativeDocumentMoniker": "..\\Assesments\\Assesmwnt2\\Assesment2\\Repositories\\PatientRepository.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Assesments\\Assesmwnt2\\Assesment2\\Repositories\\PatientRepository.cs",
-              "RelativeToolTip": "..\\Assesments\\Assesmwnt2\\Assesment2\\Repositories\\PatientRepository.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAkwCIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T04:12:20.114Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Patient.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Assesments\\Assesmwnt2\\Assesment2\\Entities\\Patient.cs",
-              "RelativeDocumentMoniker": "..\\Assesments\\Assesmwnt2\\Assesment2\\Entities\\Patient.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Assesments\\Assesmwnt2\\Assesment2\\Entities\\Patient.cs",
-              "RelativeToolTip": "..\\Assesments\\Assesmwnt2\\Assesment2\\Entities\\Patient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T04:04:05.019Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Assesments\\Assesmwnt2\\Assesment2\\Entities\\Doctor.cs",
-              "RelativeDocumentMoniker": "..\\Assesments\\Assesmwnt2\\Assesment2\\Entities\\Doctor.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Assesments\\Assesmwnt2\\Assesment2\\Entities\\Doctor.cs",
-              "RelativeToolTip": "..\\Assesments\\Assesmwnt2\\Assesment2\\Entities\\Doctor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T04:03:53.767Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Assesments\\Assesmwnt2\\Assesment2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Assesments\\Assesmwnt2\\Assesment2\\Program.cs",
-              "ToolTip": "C:\\Users\\acer\\Documents\\GitHub\\QuestTraining\\Assesments\\Assesmwnt2\\Assesment2\\Program.cs",
-              "RelativeToolTip": "..\\Assesments\\Assesmwnt2\\Assesment2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T04:01:57.024Z"
             }
           ]
         },
