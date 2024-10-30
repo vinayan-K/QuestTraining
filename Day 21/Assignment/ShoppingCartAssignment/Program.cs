@@ -16,11 +16,12 @@ namespace ShoppingCartAssignment
             cart.AddItem(new CartItem("Bread", 3, 90));
             cart.AddItem(new CartItem("Rice", 8, 80));
 
-            Console.WriteLine($"Total Amount : " + cart.TotalAmount());
-            
-            var discountPercentage = 15.4 ;
-            cart.DiscountMethod(new PercentageDiscount(discountPercentage));
-            Console.WriteLine($"Discounted price ({discountPercentage}% discount) : " + cart.TotalAmount());
+            var discountPercentage = 15.4 ;            
+            var billingService = new BillingService(new PercentageDiscount(discountPercentage));            
+            Console.WriteLine($"Discounted price ({discountPercentage}% discount) : " + billingService.TotalAmount(cart.GetAll()));
+
+            var billing = new BillingService(new FlatDiscount());
+            Console.WriteLine("Total Amount : " + billing.TotalAmount(cart.GetAll()));
         }
     }
 }

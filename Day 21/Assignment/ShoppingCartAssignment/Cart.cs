@@ -9,31 +9,26 @@ namespace ShoppingCartAssignment
     internal class Cart
     {
         private readonly List<CartItem> _items = new List<CartItem>();
-        private IDiscount _discount;
+        
 
         public void AddItem(CartItem item)
         {
-            _items.Add(item);
-        }
-
-        public void RemoveItem(CartItem item)
-        {
-            _items.Remove(item);
-        }
-
-        public void DiscountMethod(IDiscount discount)
-        {
-            _discount = discount;
-        }
-
-        public double TotalAmount()
-        {
-            double total = _items.Sum(x => x.Quantity * x.Price);
-            if (_discount != null)
+            var existingItem = _items.FirstOrDefault(i => i.Name == item.Name);
+            if (existingItem != null)
             {
-                total = _discount.Discount(total);
+                existingItem.Quantity += item.Quantity;
             }
-            return total;
+            else
+            {
+                _items.Add(item);
+            }
         }
+
+        public void RemoveItem(string productName)
+        {
+            _items.RemoveAll(i => i.Name == productName);
+        }
+        public List<CartItem> GetAll() => _items; 
+        
     }
 }

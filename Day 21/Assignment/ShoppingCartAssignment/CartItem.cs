@@ -11,6 +11,7 @@ namespace ShoppingCartAssignment
         public string Name { get; set; }
         public int Quantity { get; set; }
         public double Price { get; set; }
+        public double TotalPrice => Quantity * Price;
         public CartItem(string name, int quantity, double price)
         {
             Name = name;

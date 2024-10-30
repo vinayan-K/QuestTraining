@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 22\Problems\NotificationSystem\obj\Debug\NotificationSystem.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 22\Problems\NotificationSystem\obj\Debug\NotificationSystem.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 22\Problems\NotificationSystem\bin\Debug\NotificationSystem.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 22\Problems\NotificationSystem\bin\Debug\NotificationSystem.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 22\Problems\NotificationSystem\bin\Debug\NotificationSystem.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 22\Problems\NotificationSystem\obj\Debug\NotificationSystem.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 22\Problems\NotificationSystem\obj\Debug\NotificationSystem.pdb

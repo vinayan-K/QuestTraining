@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 22\Problems\SocketProgramming.Server\bin\Debug\SocketProgramming.Server.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 22\Problems\SocketProgramming.Server\bin\Debug\SocketProgramming.Server.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 22\Problems\SocketProgramming.Server\bin\Debug\SocketProgramming.Server.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 22\Problems\SocketProgramming.Server\obj\Debug\SocketProgramming.Server.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 22\Problems\SocketProgramming.Server\obj\Debug\SocketProgramming.Server.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 22\Problems\SocketProgramming.Server\obj\Debug\SocketProgramming.Server.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 22\Problems\SocketProgramming.Server\obj\Debug\SocketProgramming.Server.pdb

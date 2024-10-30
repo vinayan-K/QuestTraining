@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 22\Problems\EchoServer.Server\bin\Debug\EchoServer.Server.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 22\Problems\EchoServer.Server\bin\Debug\EchoServer.Server.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 22\Problems\EchoServer.Server\bin\Debug\EchoServer.Server.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 22\Problems\EchoServer.Server\obj\Debug\EchoServer.Server.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 22\Problems\EchoServer.Server\obj\Debug\EchoServer.Server.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 22\Problems\EchoServer.Server\obj\Debug\EchoServer.Server.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 22\Problems\EchoServer.Server\obj\Debug\EchoServer.Server.pdb
