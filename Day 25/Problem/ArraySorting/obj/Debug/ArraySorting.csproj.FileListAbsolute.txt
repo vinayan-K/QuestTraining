@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\ArraySorting\bin\Debug\ArraySorting.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\ArraySorting\bin\Debug\ArraySorting.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\ArraySorting\bin\Debug\ArraySorting.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\ArraySorting\obj\Debug\ArraySorting.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\ArraySorting\obj\Debug\ArraySorting.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\ArraySorting\obj\Debug\ArraySorting.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\ArraySorting\obj\Debug\ArraySorting.pdb

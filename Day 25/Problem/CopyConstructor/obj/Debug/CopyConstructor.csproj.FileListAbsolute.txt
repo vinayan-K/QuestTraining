@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\CopyConstructor\bin\Debug\CopyConstructor.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\CopyConstructor\bin\Debug\CopyConstructor.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\CopyConstructor\bin\Debug\CopyConstructor.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\CopyConstructor\obj\Debug\CopyConstructor.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\CopyConstructor\obj\Debug\CopyConstructor.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\CopyConstructor\obj\Debug\CopyConstructor.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\CopyConstructor\obj\Debug\CopyConstructor.pdb

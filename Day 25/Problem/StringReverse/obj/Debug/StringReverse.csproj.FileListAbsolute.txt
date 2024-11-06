@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\StringReverse\bin\Debug\StringReverse.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\StringReverse\bin\Debug\StringReverse.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\StringReverse\bin\Debug\StringReverse.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\StringReverse\obj\Debug\StringReverse.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\StringReverse\obj\Debug\StringReverse.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\StringReverse\obj\Debug\StringReverse.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\StringReverse\obj\Debug\StringReverse.pdb

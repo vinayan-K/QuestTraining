@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\IEnumerableIListICollection\bin\Debug\IEnumerableIListICollection.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\IEnumerableIListICollection\bin\Debug\IEnumerableIListICollection.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\IEnumerableIListICollection\bin\Debug\IEnumerableIListICollection.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\IEnumerableIListICollection\obj\Debug\IEnumerableIListICollection.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\IEnumerableIListICollection\obj\Debug\IEnumerableIListICollection.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\IEnumerableIListICollection\obj\Debug\IEnumerableIListICollection.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\IEnumerableIListICollection\obj\Debug\IEnumerableIListICollection.pdb

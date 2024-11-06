@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\StringSearch\bin\Debug\StringSearch.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\StringSearch\bin\Debug\StringSearch.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\StringSearch\bin\Debug\StringSearch.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\StringSearch\obj\Debug\StringSearch.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\StringSearch\obj\Debug\StringSearch.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\StringSearch\obj\Debug\StringSearch.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\StringSearch\obj\Debug\StringSearch.pdb

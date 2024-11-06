@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 24\Problems\Database\bin\Debug\Database.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 24\Problems\Database\bin\Debug\Database.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 24\Problems\Database\bin\Debug\Database.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 24\Problems\Database\obj\Debug\Database.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 24\Problems\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 24\Problems\Database\obj\Debug\Database.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 24\Problems\Database\obj\Debug\Database.pdb

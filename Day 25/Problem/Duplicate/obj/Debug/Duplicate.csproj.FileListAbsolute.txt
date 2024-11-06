@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\Duplicate\bin\Debug\Duplicate.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\Duplicate\bin\Debug\Duplicate.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\Duplicate\bin\Debug\Duplicate.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\Duplicate\obj\Debug\Duplicate.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\Duplicate\obj\Debug\Duplicate.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\Duplicate\obj\Debug\Duplicate.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\Duplicate\obj\Debug\Duplicate.pdb

@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\AsynchronousConsoleApp\bin\Debug\AsynchronousConsoleApp.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\AsynchronousConsoleApp\bin\Debug\AsynchronousConsoleApp.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\AsynchronousConsoleApp\bin\Debug\AsynchronousConsoleApp.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\AsynchronousConsoleApp\obj\Debug\AsynchronousConsoleApp.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\AsynchronousConsoleApp\obj\Debug\AsynchronousConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\AsynchronousConsoleApp\obj\Debug\AsynchronousConsoleApp.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\AsynchronousConsoleApp\obj\Debug\AsynchronousConsoleApp.pdb

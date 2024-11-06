@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\Indexers\IndexerExample\bin\Debug\IndexerExample.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\Indexers\IndexerExample\bin\Debug\IndexerExample.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\Indexers\IndexerExample\bin\Debug\IndexerExample.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\Indexers\IndexerExample\obj\Debug\IndexerExample.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\Indexers\IndexerExample\obj\Debug\IndexerExample.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\Indexers\IndexerExample\obj\Debug\IndexerExample.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\Indexers\IndexerExample\obj\Debug\IndexerExample.pdb

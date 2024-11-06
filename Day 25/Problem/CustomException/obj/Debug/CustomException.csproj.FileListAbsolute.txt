@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\CustomException\bin\Debug\CustomException.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\CustomException\bin\Debug\CustomException.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\CustomException\bin\Debug\CustomException.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\CustomException\obj\Debug\CustomException.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\CustomException\obj\Debug\CustomException.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\CustomException\obj\Debug\CustomException.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\CustomException\obj\Debug\CustomException.pdb

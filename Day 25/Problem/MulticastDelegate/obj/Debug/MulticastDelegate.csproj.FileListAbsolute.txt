@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\MulticastDelegate\bin\Debug\MulticastDelegate.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\MulticastDelegate\bin\Debug\MulticastDelegate.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\MulticastDelegate\bin\Debug\MulticastDelegate.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\MulticastDelegate\obj\Debug\MulticastDelegate.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\MulticastDelegate\obj\Debug\MulticastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\MulticastDelegate\obj\Debug\MulticastDelegate.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\MulticastDelegate\obj\Debug\MulticastDelegate.pdb

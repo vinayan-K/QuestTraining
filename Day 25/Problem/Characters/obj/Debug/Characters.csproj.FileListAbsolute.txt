@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\Characters\bin\Debug\Characters.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\Characters\bin\Debug\Characters.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\Characters\bin\Debug\Characters.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\Characters\obj\Debug\Characters.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\Characters\obj\Debug\Characters.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\Characters\obj\Debug\Characters.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Day 25\Problem\Characters\obj\Debug\Characters.pdb

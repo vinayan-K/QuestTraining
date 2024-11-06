@@ -1,0 +1,11 @@
+C:\Users\acer\Documents\GitHub\QuestTraining\Assesments\Assesment3\Assesment3\obj\Debug\Assesment3.csproj.AssemblyReference.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Assesments\Assesment3\Assesment3\obj\Debug\Assesment3.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\QuestTraining\Assesments\Assesment3\Assesment3\bin\Debug\Assesment3.exe.config
+C:\Users\acer\Documents\GitHub\QuestTraining\Assesments\Assesment3\Assesment3\bin\Debug\Assesment3.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Assesments\Assesment3\Assesment3\bin\Debug\Assesment3.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Assesments\Assesment3\Assesment3\bin\Debug\log4net.dll
+C:\Users\acer\Documents\GitHub\QuestTraining\Assesments\Assesment3\Assesment3\bin\Debug\log4net.pdb
+C:\Users\acer\Documents\GitHub\QuestTraining\Assesments\Assesment3\Assesment3\bin\Debug\log4net.xml
+C:\Users\acer\Documents\GitHub\QuestTraining\Assesments\Assesment3\Assesment3\obj\Debug\Assesment3.csproj.Up2Date
+C:\Users\acer\Documents\GitHub\QuestTraining\Assesments\Assesment3\Assesment3\obj\Debug\Assesment3.exe
+C:\Users\acer\Documents\GitHub\QuestTraining\Assesments\Assesment3\Assesment3\obj\Debug\Assesment3.pdb
